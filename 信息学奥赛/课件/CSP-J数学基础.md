@@ -2,7 +2,9 @@
 
 ### 扩分 
 
-![Screen Shot 2024-05-09 at 3.03.28 PM](/Volumes/data/Studio/Lifelong learning/信息学奥赛/课件/res/Screen Shot 2024-05-09 at 3.03.28 PM.png)
+<img src="res/Screen Shot 2024-06-03 at 22.38.45.png" alt="Screen Shot 2024-06-03 at 22.38.45" style="zoom:50%;" />
+
+​								<font size="6">$\frac13$</font>		      <font size="6">$=$</font>	         <font size="6">$\frac26$</font>             <font size="6">$=$</font>			 <font size="6">$\frac39$</font>              <font size="6">$=$</font>         <font size="6">$\frac{4}{12}$</font>
 
 <font color="#FDBC40">分子和分母同时乘以一个非0的数，值不变</font>
 
@@ -12,7 +14,9 @@
 
 ### 约分 
 
-![Screen Shot 2024-05-09 at 3.13.29 PM](/Volumes/data/Studio/Lifelong learning/信息学奥赛/课件/res/Screen Shot 2024-05-09 at 3.13.29 PM.png)
+<img src="res/Screen Shot 2024-06-03 at 22.51.41.png" alt="Screen Shot 2024-06-03 at 22.51.41" style="zoom:50%;" />
+
+​							  <font size="6">$\frac{8}{16}$</font>		    <font size="6">$=$</font>	         <font size="6">$\frac48$</font>             <font size="6">$=$</font>			 <font size="6">$\frac24$</font>              <font size="6">$=$</font>            <font size="6">$\frac12$</font>
 
 <font color="#FDBC40">分子和分母同时除以一个非0的数，值不变</font>
 
@@ -22,7 +26,7 @@
 
 ### 比较大小 
 
-1. <font color="#FDBC40">分母相同，分子约大值越大</font> 
+1. <font color="#FDBC40">分母相同，分子越大值越大</font> 
 
    如: $\frac{3}{5}>\frac{2}{5}$
 
@@ -115,8 +119,6 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 <ul style="color: #FDBC40;">
   <li>温度</li>
 </ul>
-
-
 ​	武汉市的气温是30℃，<font color="#FDBC40">记气温30℃</font>
 
 ​	哈尔滨的气温是零下30℃，<font color="#FC605C">**怎么记录气温？**</font>
@@ -124,8 +126,6 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 <ul style="color: #FDBC40;">
   <li>海拔</li>
 </ul>
-
-
 ​	珠穆朗玛峰高于海平面8848.86米，<font color="#FDBC40">记海拔8848.86米</font>
 
 ​	吐鲁番盆地低于海平面154.31米，<font color="#FC605C">**怎么记录海拔？**</font>
@@ -133,8 +133,6 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 <ul style="color: #FDBC40;">
   <li>收入</li>
 </ul>
-
-
 ​	A公司今年赚了100万元，<font color="#FDBC40">即收入100万</font>	
 
 ​	B公司今年亏了100万元，<font color="#FC605C">**怎么记录收入？**</font>	
@@ -150,8 +148,6 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 <ul style="color: #FDBC40;">
   <li>+</li>
 </ul>
-
-
 ​	<font color="#FDBC40">在描述数字时读作“正”</font>，如：
 
 ​	   +1、+2、+3；对于正数，一般情况下会省略'+'号，直接书写1、2、3
@@ -159,8 +155,6 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 <ul style="color: #FDBC40;">
   <li>-</li>
 </ul>
-
-
 ​	<font color="#FDBC40">在描述数字时读作“负”</font>，如：
 
 ​	   -1、-2、-3，书写时不能省略符号	
@@ -187,15 +181,11 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 <ul style="color: #FDBC40;">
   <li>定义</li>
 </ul>
-
-
 ​	当两个数<font color="#FDBC40">符号相反</font>且<font color="#FDBC40">数字相同</font>时，称这两个数互为相反数。如<font color="#FDBC40">1和-1、2和-2、	3和-3</font>
 
 <ul style="color: #FDBC40;">
   <li>神奇的-1</li>
 </ul>
-
-
  1. 除0以外，任何一个数乘以<font color="#FDBC40">-1</font>，相当于给这个数加上了一个<font color="#FDBC40">负号</font>，如：
 
     $1 \times (-1) = -1$
@@ -214,7 +204,7 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
     <font color="#FC605C">1：任何数前面添加‘-’后，都等于这个数的相反数</font>，如
 
-    ​	$2$  →  $-2$
+    ​	$-(+2)$  →  $-2$
 
     ​	$-(-3)$  →  3
 
@@ -233,30 +223,28 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
     $2 + (-2) = 0$
 
     $3 + (-3) = 0$​ 
+    
+    
 
 ### 负数的加法和减法运算
 
 <ul style="color: #FDBC40;">
   <li>加上一个负数相当于减去这个数的相反数</li>
 </ul>
-
-
 ​	$5 + (-3)$，这里的$+(-3) = -3$，所以$5 + (-3)$相当于$5 - 3$
 
 <ul style="color: #FDBC40;">
   <li>减去一个负数相当于加上这个数的相反数</li>
 </ul>
-
-
 ​	$5 - (-3)$，这里的$-(-3) = 3$，所以$5 - (-3)$相当于$5 + 3$	
+
+
 
 ### 负数的乘法和除法运算
 
 <ul style="color: #FDBC40;">
   <li>一个正数与一个负数的积或商是负数</li>
 </ul>
-
-
 ​	$3 \times (-2)$，这里的$-2 = -1 \times 2$，所以$3 \times (-2)$相当于$3 \times 2 \times (-1)$，也相当于$6 \times (-1) = -6$
 
 <ul style="color: #FDBC40;">
@@ -349,7 +337,7 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
    例如：$2^4÷ 2^3 = 2^{4-3}=2$
 
-3. 幂的乘方
+3. 幂的幂
 
 ​		<font color="#FDBC40" size="5">$(a^m)^n=a^m\times a^m \times a^m ... \times a^m$</font>，即有n个$a^m$相乘
 
@@ -357,11 +345,11 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 ​	例如：$(3^2)^3 = 3^2 \times3^2 \times3^2 = 3^{2+2+2}=3^6=729$
 
-4. 积的乘方
+4. 积的幂
 
 ​		<font color="#FDBC40" size="5">$(a\times b \times c)^m = a^m \times b^m \times c^m$</font>
 
-​		规则：当一个幂是由多个数的乘积组成时，可以将这些数分别乘方再相乘
+​		规则：当一个幂是由多个数的乘积组成时，可以将这些数分别算幂再相乘
 
 ​		例如：$(2 \times 3 \times 4)^2 = 2^2 \times 3^2 \times 4^2 = 576$
 
@@ -409,9 +397,11 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 有理数一词是从西方传来，在英语中是rational number，而rational通常的意义是“理性的”；而这个词的词源来自于古希腊，它的英文词根为ratio，就是比率的意思；描述的就是整数的“比”；所以有理数并不表示比别的数更“有道理”，这是一个翻译上的失误；与之相对，“无理数”就是不能精确表示为两个整数之比的数。
 
+
+
 #### 定义
 
-指可以表示为<font color="#FDBC40">两个整数比（即分数形式）的数；包括整数、分数（整数也可看作是分母是1的分数）以及0</font>；有理数也可以表示为<font color="#FDBC40">有限小数</font>和<font color="#FDBC40">无限循环小数</font>
+指可以表示为<font color="#FDBC40">两个整数比（即分数形式）的数；包括整数（整数也可看作是分母是1的分数）、分数以及0</font>；有理数也可以表示为<font color="#FDBC40">有限小数</font>和<font color="#FDBC40">无限循环小数</font>
 
 
 
@@ -503,11 +493,11 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 数码组合指的是以<font color="#FDBC40">数码</font>的排列组合方式描述一个数，如：
 
-<font color="#FDBC40">十进制数1024</font>  它是由<font color="#FDBC40">十进制数码1、0、2、4</font>这四个数码排列组合而成；
+<font color="#FDBC40">十进制数1024</font>  它是由<font color="#FDBC40">十进制数码0、1、2、4</font>这四个数码排列组合而成；
 
-<font color="#FDBC40">二进制数$(1010)_2$</font>  它是由<font color="#FDBC40">二进制数码1、0、1、0</font>这两个数码排列组合而成；
+<font color="#FDBC40">二进制数$(1010)_2$</font>  它是由<font color="#FDBC40">二进制数码0、1</font>这两个数码排列组合而成；
 
-<font color="#FDBC40">八进制数$(6742)_8$ </font>  它是由<font color="#FDBC40">八进制数码6、7、4、2</font>这四个数码排列组合而成；
+<font color="#FDBC40">八进制数$(6742)_8$ </font>  它是由<font color="#FDBC40">八进制数码2、4、6、7</font>这四个数码排列组合而成；
 
 <font color="#FDBC40">十六进制数$(28DF)_{16}$ </font> 它是由<font color="#FDBC40">十六进制数码2、8、D、F</font>这四个数码排列组合而成；
 
@@ -578,8 +568,6 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 <font color="#FDBC40" size="5">**$13=(1101)_2$​**</font>
 
 <img src="/Volumes/data/Studio/Lifelong learning/信息学奥赛/课件/res/Screenshot 2024-04-28 at 20.35.42.png" alt="Screenshot 2024-04-28 at 20.35.42" style="zoom:50%;" align="left"/>
-
-
 
 <font color="#FDBC40" size="5">**十进制数转八进制数**</font>
 
@@ -704,10 +692,16 @@ $127 = $<font color="#FDBC40">7</font>$\times 16^1 + $<font color="#FDBC40">15</
 即: <font color="#FDBC40" size="6">$\frac{a}{b}或a÷b$</font>
 
 * a，b是整数
+
 * b不等于0
+
 * $\frac{a}{b}或a÷b的余数为0$
+
 * a是b的倍数
+
 * b是a的因数
+
+  
 
 ### 绝对值
 
@@ -723,6 +717,8 @@ $$
 <font color="#FDBC40">$|a|叫做a的绝对值$</font>
 
 如：$|2|=|-2|=2$
+
+
 
 ### 引理
 
@@ -748,7 +744,7 @@ $$
 
    $如a = 10, b = 3$，则<font color="#FDBC40">10 = 3</font>$\times$<font color="#FC605C">3</font> $+$ <font color="#FC605C">1</font>
 
-   <font color="#FC605C">即两个整数相除，除数不为0时，商和余数是确定且唯一的</font>
+   <font color="#FC605C">即两个整数相除，除数不为0时，商和余数是确定且唯一的；这里的a可以看成被除数、b可以看成除数、q可以看成商、r可以看成余数</font>
 
 
 
@@ -767,13 +763,9 @@ $$
 <ul style="color: #FDBC40;">
   <li>1</li>
 </ul>
-
-
 <ul style="color: #FDBC40;">
   <li>全体素数</li>
 </ul>
-
-
 <ul style="color: #FDBC40;">
   <li>全体合数</li>
 </ul>
@@ -793,21 +785,15 @@ $$
 2. 如果a是一个大于1的整数，而所有$\leq \sqrt a$​的素数都除不尽a，则a是素数
 3. 有无限多个素数
 
-
-
 #### 目前已知的最大素数
 
 <font color="#FDBC40" size="6">$2^{82589933} - 1$</font>
-
-
 
 #### 孪生素数
 
 <img src="/Volumes/data/Studio/Lifelong learning/信息学奥赛/课件/res/Screen Shot 2024-04-30 at 11.58.10 AM.png" alt="Screen Shot 2024-04-30 at 11.58.10 AM" style="zoom:50%;" align="left"/>
 
 相邻两个素数的差是2，则称这两个素数为孪生素数
-
-
 
 #### 哥德巴赫猜想
 
@@ -825,7 +811,7 @@ $$
 
 任何一个大于1的自然数n，都可以唯一分解成有限个质数的乘积，写作$n=p_1^{a_1} \times p_2^{a_2} \times ... \times p_m^{a_m}$，表示n有m种不同的质因数，每种质因数有$a_i$个。
 
-我们把<font color="#FDBC40">$n=p_1^{a_1} \times p_2^{a_2} \times ... \times p_m^{a_m}$</font>叫做$n$的标准分解式，如：
+当$p_1、p_2...、p_m$从小到大排列时，我们把<font color="#FDBC40">$n=p_1^{a_1} \times p_2^{a_2} \times ... \times p_m^{a_m}$</font>叫做$n$的标准分解式，如：
 
 $600的标准分解式: 600=2^3\times 3^1 \times 5^2$​​
 
@@ -839,7 +825,7 @@ $10725的标准分解式: 10725=3\times 5^2 \times 11 \times 13$
 
 ### 因数个数
 
-若自然数n可以唯一分解为$p_1^{a_1} \times p_2^{a_2} \times ... \times p_m^{a_m}$，则因数个数可以表示为<font color="#FDBC40" size="5">$(a_1 +1)\times (a_2 +1) \times ...\times (a_m +1)$</font>
+若自然数n可以唯一分解为$p_1^{a_1} \times p_2^{a_2} \times ... \times p_m^{a_m}$，则n的因数个数可以表示为<font color="#FDBC40" size="5">$(a_1 +1)\times (a_2 +1) \times ...\times (a_m +1)$</font>
 
 如24的唯一分解为$24=2^3\times 3^1$，则24的因数个数为$(3+1)\times (1+1)=8$
 
@@ -929,11 +915,11 @@ $530=53\times 10 + 0$
 
 ### 定义
 
-如果整数$n\geq 2$，并且$a_1，a_2,...,a_n$和m都是正整数，又$a_1|m，a_2|m，...,a_n|m$，则m叫做$a_1,a_2,...,a_n$的公倍数，在$a_1，a_2,...,a_n$所有的公倍数中，最小的一个公倍数叫做$a_1，a_2,...,a_n的最小公倍数$，我们<font color="#FDBC40">写作$\{a_1,a_2,...,a_n\}=m$</font>
+如果整数$n\geq 2$，并且$a_1，a_2,...,a_n$和m都是正整数，又$a_1|m，a_2|m，...,a_n|m$，则m叫做$a_1,a_2,...,a_n$的公倍数，在$a_1，a_2,...,a_n$所有的公倍数中，最小的一个公倍数叫做$a_1，a_2,...,a_n$的最小公倍数，我们<font color="#FDBC40">写作$\{a_1,a_2,...,a_n\}=m$</font>
 
 如$\{4,6\}=12$
 
-如果<font color="#FDBC40">求n个正整数$a_1,a_2,...,a_n$的最小公倍数</font>，可先将它们分解成标准分解式<font color="#FDBC40">$p_1^{a_1} \times p_2^{a_2} \times ... \times p_m^{a_m}$</font>，然后找出所有$p_i^{a_i+1}$，要满足它不能整除所有的$a_1,a_2,...,a_n$，最后将所有$p_i^{a_i}$相乘，就是这n个数$a_1,a_2,...,a_n$的最小公倍数
+如果<font color="#FDBC40">求n个正整数$a_1,a_2,...,a_n$的最小公倍数</font>，可先将它们分解成标准分解式<font color="#FDBC40">$p_1^{a_1} \times p_2^{a_2} \times ... \times p_m^{a_m}$</font>，然后找出所有$p_i^{a_i+1}$，要满足它不能整除所有的$a_1,a_2,...,a_n$，最后将所有$p_i^{a_i}$相乘，就得到这n个数$a_1,a_2,...,a_n$的最小公倍数
 
 <font color="#FDBC40">求$108,28和42$的最小公倍数</font>
 
@@ -944,6 +930,8 @@ $28=2^2\times$ <font color="#FC605C">$7$</font>
 $42=2\times 3 \times 7$
 
 可以发现$2^{2+1}、3^{3+1}、7^{1+1}$都不能整除$108、28、42$，所以<font color="#FDBC40">$108,28和42$的最小公倍数是：</font><font color="#FC605C">$2^2$</font>$\times$ <font color="#FC605C">$3^3$</font> $\times$ <font color="#FC605C">$7$</font> = <font color="#FC605C">$756$</font>
+
+
 
  ### 互素
 
