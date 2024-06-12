@@ -6,7 +6,7 @@
 
 <img src="res/Screen Shot 2024-06-04 at 4.25.40 PM.png" alt="Screen Shot 2024-06-04 at 4.25.40 PM" style="zoom:50%;" align="left"/>
 
-<font color="#FDBC40">分子和分母同时乘以一个非0的数，值不变</font>
+<font color="#5073D6">分子和分母同时乘以一个非0的数，值不变</font>
 
 如$\frac13=\frac{1\times 2}{3\times2}=\frac{1\times 3}{3\times3}=\frac{1\times 4}{3\times4}$
 
@@ -16,7 +16,7 @@
 
 <img src="res/Screen Shot 2024-06-04 at 4.26.02 PM.png" alt="Screen Shot 2024-06-04 at 4.26.02 PM" style="zoom:50%;" align="left"/>
 
-<font color="#FDBC40">分子和分母同时除以一个非0的数，值不变</font>
+<font color="#5073D6">分子和分母同时除以一个非0的数，值不变</font>
 
 如$\frac{1}{2}=\frac{2÷2}{4÷2}=\frac{4÷4}{8÷4}=\frac{8÷8}{16÷8}$​
 
@@ -24,15 +24,15 @@
 
 ### 比较大小 
 
-1. <font color="#FDBC40">分母相同，分子越大值越大</font> 
+1. <font color="#5073D6">分母相同，分子越大值越大</font> 
 
    如: $\frac{3}{5}>\frac{2}{5}$
 
-2. <font color="#FDBC40">分子相同，分母越大值越小</font> 
+2. <font color="#5073D6">分子相同，分母越大值越小</font> 
 
    如$\frac{3}{5}<\frac{3}{4}$
 
-3. <font color="#FDBC40">分母、分子都不同，一般先化为同分母再比较大小</font> 
+3. <font color="#5073D6">分母、分子都不同，一般先化为同分母再比较大小</font> 
 
    如$\frac{3}{4}、\frac{4}{5}$
 
@@ -56,7 +56,7 @@
 
 ### 带分数 
 
-带分数由<font color="#FDBC40">整数</font>和<font color="#FDBC40">真分数</font>组成
+带分数由<font color="#5073D6">整数</font>和<font color="#5073D6">真分数</font>组成
 
 如：$3\frac{3}{4}$，读作“3又4分之3”
 
@@ -68,7 +68,7 @@ $3\frac{3}{4}=3+\frac{3}{4}=\frac{12}{4}+\frac34=\frac{15}{4}$
 
 数学上设一个数x与其相乘的积为1的数，记为1/x，过程为“乘法逆元”，除了0以外的数都存在倒数，分子和分母相倒并且两个乘积是1的数互为倒数，0没有倒数。
 
-<font color="#FDBC40">简单理解为把一个数的分子、分母颠倒位置</font>
+<font color="#5073D6">简单理解为把一个数的分子、分母颠倒位置</font>
 
 如：$\frac34的倒数是\frac43、2=\frac21的倒数是\frac12$
 
@@ -80,13 +80,13 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 ### 分数的加减法 
 
-1. <font color="#FDBC40">同分母：分母不变，分子相加减</font>
+1. <font color="#5073D6">同分母：分母不变，分子相加减</font>
 
    如：$\frac35+\frac15=\frac{3+1}5=\frac45$
 
    $\frac35-\frac15=\frac{3-1}5=\frac25$
 
-2. <font color="#FDBC40">异分母：先化为同分母，然后再按同分母方法计算</font> 
+2. <font color="#5073D6">异分母：先化为同分母，然后再按同分母方法计算</font> 
 
    $\frac45+\frac34=\frac{16}{20}+\frac{15}{20}=\frac{16+15}{20}=\frac{31}{20}$
 
@@ -114,24 +114,24 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 **我们来思考以下几个问题：**
 
-<ul style="color: #FDBC40;">
+<ul style="color: #5073D6;">
   <li>温度</li>
 </ul>
-​	武汉市的气温是30℃，<font color="#FDBC40">记气温30℃</font>
+​	武汉市的气温是30℃，<font color="#5073D6">记气温30℃</font>
 
 ​	哈尔滨的气温是零下30℃，<font color="#FC605C">**怎么记录气温？**</font>
 
-<ul style="color: #FDBC40;">
+<ul style="color: #5073D6;">
   <li>海拔</li>
 </ul>
-​	珠穆朗玛峰高于海平面8848.86米，<font color="#FDBC40">记海拔8848.86米</font>
+​	珠穆朗玛峰高于海平面8848.86米，<font color="#5073D6">记海拔8848.86米</font>
 
 ​	吐鲁番盆地低于海平面154.31米，<font color="#FC605C">**怎么记录海拔？**</font>
 
-<ul style="color: #FDBC40;">
+<ul style="color: #5073D6;">
   <li>收入</li>
 </ul>
-​	A公司今年赚了100万元，<font color="#FDBC40">即收入100万</font>	
+​	A公司今年赚了100万元，<font color="#5073D6">即收入100万</font>	
 
 ​	B公司今年亏了100万元，<font color="#FC605C">**怎么记录收入？**</font>	
 
@@ -143,21 +143,21 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 两个符号：
 
-<ul style="color: #FDBC40;">
+<ul style="color: #5073D6;">
   <li>+</li>
 </ul>
-​	<font color="#FDBC40">在描述数字时读作“正”</font>，如：
+​	<font color="#5073D6">在描述数字时读作“正”</font>，如：
 
 ​	   +1、+2、+3；对于正数，一般情况下会省略'+'号，直接书写1、2、3
 
-<ul style="color: #FDBC40;">
+<ul style="color: #5073D6;">
   <li>-</li>
 </ul>
-​	<font color="#FDBC40">在描述数字时读作“负”</font>，如：
+​	<font color="#5073D6">在描述数字时读作“负”</font>，如：
 
 ​	   -1、-2、-3，书写时不能省略符号	
 
-写法是在<font color="#FDBC40">正数</font>前加上"<font color="#FDBC40">-</font>"，读作<font color="#FDBC40">负</font>
+写法是在<font color="#5073D6">正数</font>前加上"<font color="#5073D6">-</font>"，读作<font color="#5073D6">负</font>
 
 <font color="#FC605C">注意：0既不是正数也不是负数，即没有+0，-0的写法</font>
 
@@ -165,7 +165,7 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 ### 相反数
 
-<ul style="color: #FDBC40;">
+<ul style="color: #5073D6;">
   <li>认识数轴</li>
 </ul>
 ![35a85edf8db1cb131e51dc46e4d16c4992584b33](res/35a85edf8db1cb131e51dc46e4d16c4992584b33.jpg)
@@ -174,21 +174,21 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 2. 0的左边全是负数，0的右边全是正数
 3. 数轴上每一个正数都有唯一一个负数与之对应
 
-<ul style="color: #FDBC40;">
+<ul style="color: #5073D6;">
   <li>定义</li>
 </ul>
-​	当两个数<font color="#FDBC40">符号相反</font>且<font color="#FDBC40">数字相同</font>时，称这两个数互为相反数。如<font color="#FDBC40">1和-1、2和-2、	3和-3</font>
+​	当两个数<font color="#5073D6">符号相反</font>且<font color="#5073D6">数字相同</font>时，称这两个数互为相反数。如<font color="#5073D6">1和-1、2和-2、	3和-3</font>
 
-<ul style="color: #FDBC40;">
+<ul style="color: #5073D6;">
   <li>神奇的-1</li>
 </ul>
- 1. 除0以外，任何一个数乘以<font color="#FDBC40">-1</font>，相当于给这个数加上了一个<font color="#FDBC40">负号</font>，如：
+ 1. 除0以外，任何一个数乘以<font color="#5073D6">-1</font>，相当于给这个数加上了一个<font color="#5073D6">负号</font>，如：
 
     $1 \times (-1) = -1$
 
     $2 \times (-1) = -2$
 
- 2. 任何一个数与<font color="#FDBC40">-1</font>的乘积，都等于这个数的相反数，如：
+ 2. 任何一个数与<font color="#5073D6">-1</font>的乘积，都等于这个数的相反数，如：
 
     1的相反数等于 $1 \times (-1) = -1$
 
@@ -224,12 +224,12 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 ### 负数的加法和减法运算
 
-<ul style="color: #FDBC40;">
+<ul style="color: #5073D6;">
   <li>加上一个负数相当于减去这个数的相反数</li>
 </ul>
 ​	$5 + (-3)$，这里的$+(-3) = -3$，所以$5 + (-3)$相当于$5 - 3$
 
-<ul style="color: #FDBC40;">
+<ul style="color: #5073D6;">
   <li>减去一个负数相当于加上这个数的相反数</li>
 </ul>
 ​	$5 - (-3)$，这里的$-(-3) = 3$，所以$5 - (-3)$相当于$5 + 3$	
@@ -238,12 +238,12 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 ### 负数的乘法和除法运算
 
-<ul style="color: #FDBC40;">
+<ul style="color: #5073D6;">
   <li>一个正数与一个负数的积或商是负数</li>
 </ul>
 ​	$3 \times (-2)$，这里的$-2 = -1 \times 2$，所以$3 \times (-2)$相当于$3 \times 2 \times (-1)$，也相当于$6 \times (-1) = -6$
 
-<ul style="color: #FDBC40;">
+<ul style="color: #5073D6;">
   <li>两个负数的积或商是正数</li>
 </ul>
 
@@ -257,11 +257,11 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 ### 什么是幂？
 
-通常<font color="#FDBC40">幂</font>是指一个数自乘若干次的形式，如：<font color="#FDBC40" size="5">$a^n = a \times a \times a \times ... \times a$</font>，这里有<font color="#FDBC40">n个a自乘</font>
+通常<font color="#5073D6">幂</font>是指一个数自乘若干次的形式，如：<font color="#5073D6" size="5">$a^n = a \times a \times a \times ... \times a$</font>，这里有<font color="#5073D6">n个a自乘</font>
 
-我们称<font color="#FDBC40">a为底数、n为指数、$a^n$为a的n次幂或a的n次方</font>
+我们称<font color="#5073D6">a为底数、n为指数、$a^n$为a的n次幂或a的n次方</font>
 
-例如：<font color="#FDBC40" size="5">$2^3=2\times2\times2$</font>，这时$a=2、n=3$
+例如：<font color="#5073D6" size="5">$2^3=2\times2\times2$</font>，这时$a=2、n=3$
 
 注：以上幂的表达式其实是默认<font color="#FC605C">指数n为正整数</font>的情形，当n不是正整数时，幂的表达式是怎样的呢？
 
@@ -279,39 +279,39 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 1. 指数n为正整数
 
-   <font color="#FDBC40" size="5">$a^n = a \times a \times a \times ... \times a$</font>，表示n个a相乘
+   <font color="#5073D6" size="5">$a^n = a \times a \times a \times ... \times a$</font>，表示n个a相乘
 
    特别的，当$n=2$时，我们也称$a^2$为a的平方；当$n=3$时，我们也称$a^3$为a的立方
 
 2. 指数n为0
 
-   当底数$a$不为0时，<font color="#FDBC40" size="5">$a^0=1$</font>
+   当底数$a$不为0时，<font color="#5073D6" size="5">$a^0=1$</font>
 
-   如：<font color="#FDBC40" size="5">$2^0=1、(-3)^0=1、\frac14^0=1等$</font>
+   如：<font color="#5073D6" size="5">$2^0=1、(-3)^0=1、\frac14^0=1等$</font>
 
 3. 指数n为负整数
 
-   <font color="#FDBC40" size="5">$a^n = \frac1a \times \frac1a \times \frac1a \times ... \times \frac1a=\frac{1}{a^n}$</font>，表示n个$\frac1a$相乘
+   <font color="#5073D6" size="5">$a^n = \frac1a \times \frac1a \times \frac1a \times ... \times \frac1a=\frac{1}{a^n}$</font>，表示n个$\frac1a$相乘
 
-   例如：<font color="#FDBC40" size="5">$2^{-3} = \frac12\times\frac12\times\frac12=\frac{1}{2^3}$</font>
+   例如：<font color="#5073D6" size="5">$2^{-3} = \frac12\times\frac12\times\frac12=\frac{1}{2^3}$</font>
 
 4. 指数n为分数时
 
-   <font color="#FDBC40">这里我们先讨论n的分子是1，分母是正整数的情形，如$n等于\frac12、\frac13、\frac14等$</font>
+   <font color="#5073D6">这里我们先讨论n的分子是1，分母是正整数的情形，如$n等于\frac12、\frac13、\frac14等$</font>
 
    假设$n=\frac1m$，m为正整数（2、3、4等）
 
-   <font color="#FDBC40" size="5">$a^{\frac1m} =\sqrt[m]{a}$</font>，表示a的m次方根，指的是<font color="#FDBC40">谁的m次方等于a</font>
+   <font color="#5073D6" size="5">$a^{\frac1m} =\sqrt[m]{a}$</font>，表示a的m次方根，指的是<font color="#5073D6">谁的m次方等于a</font>
 
-   特别的，当$n=\frac12$时，<font color="#FDBC40" size="5">$a^{\frac12} =\sqrt{a}$</font>，表示a的$2$次方根，也称$a$的<font color="#FDBC40">平方根</font>，此时$\sqrt[2]{a}$这里的2可以省略，即$\sqrt{a}=\sqrt[2]{a}$
+   特别的，当$n=\frac12$时，<font color="#5073D6" size="5">$a^{\frac12} =\sqrt{a}$</font>，表示a的$2$次方根，也称$a$的<font color="#5073D6">平方根</font>，此时$\sqrt[2]{a}$这里的2可以省略，即$\sqrt{a}=\sqrt[2]{a}$
 
-   当$n=\frac13$时，<font color="#FDBC40" size="5">$a^{\frac13} =\sqrt[3]{a}$</font>，表示a的$3$次方根，也称$a$的<font color="#FDBC40">立方根</font>
+   当$n=\frac13$时，<font color="#5073D6" size="5">$a^{\frac13} =\sqrt[3]{a}$</font>，表示a的$3$次方根，也称$a$的<font color="#5073D6">立方根</font>
 
-   例如：$16^{\frac14}$表示的是<font color="#FDBC40">谁的4次方等于16</font>，我们知道$2^4=16且(-2)^4=16$，所以$16^{\frac14}=\sqrt[4]16=2和-2$
+   例如：$16^{\frac14}$表示的是<font color="#5073D6">谁的4次方等于16</font>，我们知道$2^4=16且(-2)^4=16$，所以$16^{\frac14}=\sqrt[4]16=2和-2$
 
-   $27^{\frac13}$表示的是<font color="#FDBC40">谁的3次方等于27</font>，我们知道$3^3=27$，所以$27^{\frac13}=\sqrt[3]27=3$
+   $27^{\frac13}$表示的是<font color="#5073D6">谁的3次方等于27</font>，我们知道$3^3=27$，所以$27^{\frac13}=\sqrt[3]27=3$
 
-   $16^{\frac12}$表示的是<font color="#FDBC40">谁的2次方等于16</font>，我们知道$4^2=16且(-4)^2=16$，所以$16^{\frac12}=4和-4$
+   $16^{\frac12}$表示的是<font color="#5073D6">谁的2次方等于16</font>，我们知道$4^2=16且(-4)^2=16$，所以$16^{\frac12}=4和-4$
 
 
 
@@ -319,7 +319,7 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 1. 同底数幂的乘法
 
-   <font color="#FDBC40" size="5">$a^m\times a^n=a^{m+n}$</font>
+   <font color="#5073D6" size="5">$a^m\times a^n=a^{m+n}$</font>
 
    规则：幂$a^m$与幂$a^n$有相同的底数$a$，此时两个幂相乘时，底数$a$不变，指数相加
 
@@ -327,7 +327,7 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 2. 同底数幂的除法
 
-   <font color="#FDBC40" size="5">$a^m ÷ a^n=a^{m-n}$</font>
+   <font color="#5073D6" size="5">$a^m ÷ a^n=a^{m-n}$</font>
 
    规则：幂$a^m$与幂$a^n$有相同的底数$a$，此时两个幂相除时，底数$a$不变，指数相减
 
@@ -335,15 +335,15 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 3. 幂的幂
 
-​		<font color="#FDBC40" size="5">$(a^m)^n=a^m\times a^m \times a^m ... \times a^m$</font>，即有n个$a^m$相乘
+​		<font color="#5073D6" size="5">$(a^m)^n=a^m\times a^m \times a^m ... \times a^m$</font>，即有n个$a^m$相乘
 
-​    	<font color="#FDBC40" size="5">$(a^m)^n=a^m\times a^m \times a^m ... \times a^m = a^{m + m + ... + m} = a^{m\times n}$</font>
+​    	<font color="#5073D6" size="5">$(a^m)^n=a^m\times a^m \times a^m ... \times a^m = a^{m + m + ... + m} = a^{m\times n}$</font>
 
 ​	例如：$(3^2)^3 = 3^2 \times3^2 \times3^2 = 3^{2+2+2}=3^6=729$
 
 4. 积的幂
 
-​		<font color="#FDBC40" size="5">$(a\times b \times c)^m = a^m \times b^m \times c^m$</font>
+​		<font color="#5073D6" size="5">$(a\times b \times c)^m = a^m \times b^m \times c^m$</font>
 
 ​		规则：当一个幂是由多个数的乘积组成时，可以将这些数分别算幂再相乘
 
@@ -355,11 +355,11 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 假设$n=\frac qp，p和q为非0整数$
 
-<font color="#FDBC40" size="5">$a^{\frac qp}=?$</font>
+<font color="#5073D6" size="5">$a^{\frac qp}=?$</font>
 
 推导一下
 
-<font color="#FDBC40" size="5">$a^{\frac qp}=(a^q)^{\frac 1p}=\sqrt[p]{a^q}$</font>
+<font color="#5073D6" size="5">$a^{\frac qp}=(a^q)^{\frac 1p}=\sqrt[p]{a^q}$</font>
 
 例如：$8^{\frac23} = \sqrt[3]{8^2} = \sqrt[3]{64} = 4$
 
@@ -371,19 +371,19 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 ### 自然数
 
-指<font color="#FDBC40">大于或等于0的整数</font>，用数码0、1、2、3、4....表示；它是由0开始，一个接着一个组成的一个无穷集合
+指<font color="#5073D6">大于或等于0的整数</font>，用数码0、1、2、3、4....表示；它是由0开始，一个接着一个组成的一个无穷集合
 
-<font color="#FDBC40">最小的自然数是0</font>
+<font color="#5073D6">最小的自然数是0</font>
 
-<font color="#FDBC40">不存在最大的自然数</font>
+<font color="#5073D6">不存在最大的自然数</font>
 
 
 
 ### 整数
 
-由<font color="#FDBC40">自然数以及负整数</font>（-1、-2、-3...）组成的集合
+由<font color="#5073D6">自然数以及负整数</font>（-1、-2、-3...）组成的集合
 
-<font color="#FDBC40">整数不存在最大值和最小值</font>
+<font color="#5073D6">整数不存在最大值和最小值</font>
 
 
 
@@ -395,13 +395,13 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 #### 定义
 
-指可以表示为<font color="#FDBC40">两个整数比（即分数形式）的数；包括整数（整数也可看作是分母是1的分数）、分数以及0</font>；有理数也可以表示为<font color="#FDBC40">有限小数</font>和<font color="#FDBC40">无限循环小数</font>
+指可以表示为<font color="#5073D6">两个整数比（即分数形式）的数；包括整数（整数也可看作是分母是1的分数）、分数以及0</font>；有理数也可以表示为<font color="#5073D6">有限小数</font>和<font color="#5073D6">无限循环小数</font>
 
 
 
 ### 无理数
 
-无理数也称为<font color="#FDBC40">无限不循环小数</font>，不能表示为两个<font color="#FDBC40">整数</font>之比的形式。
+无理数也称为<font color="#5073D6">无限不循环小数</font>，不能表示为两个<font color="#5073D6">整数</font>之比的形式。
 
 #### 常见的无理数
 
@@ -413,7 +413,7 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 ### 实数
 
-实数，是<font color="#FDBC40">有理数</font>和<font color="#FDBC40">无理数</font>的总称
+实数，是<font color="#5073D6">有理数</font>和<font color="#5073D6">无理数</font>的总称
 
 ![t0139d6ed0f39ead507](res/t0139d6ed0f39ead507.jpg)
 
@@ -443,41 +443,41 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 1. 十进制
 
-   <font color="#FDBC40">数码：0、1、2、3、4、5、6、7、8、9</font>
+   <font color="#5073D6">数码：0、1、2、3、4、5、6、7、8、9</font>
 
-   <font color="#FDBC40">基数：10</font>
+   <font color="#5073D6">基数：10</font>
 
-   <font color="#FDBC40">位权：</font>以十进制数1024为例
+   <font color="#5073D6">位权：</font>以十进制数1024为例
 
    ​	<img src="res/Screen Shot 2024-04-28 at 3.42.43 PM.png" alt="Screen Shot 2024-04-28 at 3.42.43 PM" style="zoom:30%;" />
 
 2. 二进制
 
-   <font color="#FDBC40">数码：0、1</font>
+   <font color="#5073D6">数码：0、1</font>
 
-   <font color="#FDBC40">基数：2</font>
+   <font color="#5073D6">基数：2</font>
 
-   <font color="#FDBC40">位权：</font>以二进制数1010为例
+   <font color="#5073D6">位权：</font>以二进制数1010为例
 
    ​           <img src="res/Screen Shot 2024-04-28 at 3.47.09 PM.png" alt="Screen Shot 2024-04-28 at 3.47.09 PM" style="zoom:30%;" />
 
 3. 八进制
 
-   <font color="#FDBC40">数码：0、1、2、3、4、5、6、7</font>
+   <font color="#5073D6">数码：0、1、2、3、4、5、6、7</font>
 
-   <font color="#FDBC40">基数：8</font>
+   <font color="#5073D6">基数：8</font>
 
-   <font color="#FDBC40">位权：</font>以八进制数6742为例
+   <font color="#5073D6">位权：</font>以八进制数6742为例
 
 ​	          <img src="res/Screen Shot 2024-04-28 at 3.51.50 PM.png" alt="Screen Shot 2024-04-28 at 3.51.50 PM" style="zoom:40%;" />
 
 4. 十六进制
 
-   <font color="#FDBC40">数码：0、1、2、3、4、5、6、7、8、9、A、B、C、D、E、F</font>
+   <font color="#5073D6">数码：0、1、2、3、4、5、6、7、8、9、A、B、C、D、E、F</font>
 
-   <font color="#FDBC40">基数：16</font>
+   <font color="#5073D6">基数：16</font>
 
-   <font color="#FDBC40">位权：</font>以十六进制数28DF为例
+   <font color="#5073D6">位权：</font>以十六进制数28DF为例
 
    ​           <img src="res/Screen Shot 2024-04-28 at 3.57.53 PM.png" alt="Screen Shot 2024-04-28 at 3.57.53 PM" style="zoom:40%;" />      
 
@@ -486,29 +486,29 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 ### 数码组合
 
-数码组合指的是以<font color="#FDBC40">数码</font>的排列组合方式描述一个数，如：
+数码组合指的是以<font color="#5073D6">数码</font>的排列组合方式描述一个数，如：
 
-<font color="#FDBC40">十进制数1024</font>  它是由<font color="#FDBC40">十进制数码0、1、2、4</font>这四个数码排列组合而成；
+<font color="#5073D6">十进制数1024</font>  它是由<font color="#5073D6">十进制数码0、1、2、4</font>这四个数码排列组合而成；
 
-<font color="#FDBC40">二进制数$(1010)_2$</font>  它是由<font color="#FDBC40">二进制数码0、1</font>这两个数码排列组合而成；
+<font color="#5073D6">二进制数$(1010)_2$</font>  它是由<font color="#5073D6">二进制数码0、1</font>这两个数码排列组合而成；
 
-<font color="#FDBC40">八进制数$(6742)_8$ </font>  它是由<font color="#FDBC40">八进制数码2、4、6、7</font>这四个数码排列组合而成；
+<font color="#5073D6">八进制数$(6742)_8$ </font>  它是由<font color="#5073D6">八进制数码2、4、6、7</font>这四个数码排列组合而成；
 
-<font color="#FDBC40">十六进制数$(28DF)_{16}$ </font> 它是由<font color="#FDBC40">十六进制数码2、8、D、F</font>这四个数码排列组合而成；
+<font color="#5073D6">十六进制数$(28DF)_{16}$ </font> 它是由<font color="#5073D6">十六进制数码2、8、D、F</font>这四个数码排列组合而成；
 
 
 
 ### 位权组合
 
-位权组合指的是用<font color="#FDBC40">位权累加</font>的方式描述一个数，如：
+位权组合指的是用<font color="#5073D6">位权累加</font>的方式描述一个数，如：
 
-<font color="#FDBC40">$十进制数1024=1\times 10^3 + 0 \times 10^2 + 2 \times 10^1 + 4 \times 10^0$​</font>
+<font color="#5073D6">$十进制数1024=1\times 10^3 + 0 \times 10^2 + 2 \times 10^1 + 4 \times 10^0$​</font>
 
-<font color="#FDBC40">$二进制数(1010)_2=1\times 2^3 + 0 \times 2^2 + 1 \times 2^1 + 0 \times 2^0$</font>
+<font color="#5073D6">$二进制数(1010)_2=1\times 2^3 + 0 \times 2^2 + 1 \times 2^1 + 0 \times 2^0$</font>
 
-<font color="#FDBC40">$八进制数(6742)_8=6\times 8^3 + 7 \times 8^2 + 4 \times 8^1 + 2 \times 8^0$</font>
+<font color="#5073D6">$八进制数(6742)_8=6\times 8^3 + 7 \times 8^2 + 4 \times 8^1 + 2 \times 8^0$</font>
 
-<font color="#FDBC40">$十六进制数(28DF)_{16}=2\times 16^3 + 8 \times 16^2 + 13 \times 16^1 + 15 \times 10^0$</font>
+<font color="#5073D6">$十六进制数(28DF)_{16}=2\times 16^3 + 8 \times 16^2 + 13 \times 16^1 + 15 \times 10^0$</font>
 
 
 
@@ -516,35 +516,35 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 ## 非十进制数转十进制数
 
-规则：将一个非十进制数以<font color="#FDBC40">位权组合</font>的方式表示，然后将每个位权部分按十进制方式计算，最后求和。
+规则：将一个非十进制数以<font color="#5073D6">位权组合</font>的方式表示，然后将每个位权部分按十进制方式计算，最后求和。
 
-<font color="#FDBC40" size="6">**十进制数998.25**</font>
+<font color="#5073D6" size="6">**十进制数998.25**</font>
 
 <img src="res/Screen Shot 2024-04-28 at 4.49.40 PM.png" alt="Screen Shot 2024-04-28 at 4.49.40 PM" style="zoom:40%;" align="left"/>
 
-<font color="#FDBC40" size="4">**$998.25=9\times 10^2 + 9\times 10^1 + 8\times 10^0 + 2\times 10^{-1} + 5\times 10^{-2}$**</font>
+<font color="#5073D6" size="4">**$998.25=9\times 10^2 + 9\times 10^1 + 8\times 10^0 + 2\times 10^{-1} + 5\times 10^{-2}$**</font>
 
 
 
-<font color="#FDBC40" size="6">**二进制数$(110.011)_2$**</font>
+<font color="#5073D6" size="6">**二进制数$(110.011)_2$**</font>
 
 <img src="res/Screen Shot 2024-04-28 at 5.05.53 PM.png" alt="Screen Shot 2024-04-28 at 5.05.53 PM" style="zoom:40%;" align="left"/>
 
-<font color="#FDBC40" size="4">**$(110.011)_2=1\times 2^2 + 1\times 2^1 + 0\times 2^0 + 0\times 2^{-1} + 1\times 2^{-2} + 1\times 2^{-3}=6.375$**</font>
+<font color="#5073D6" size="4">**$(110.011)_2=1\times 2^2 + 1\times 2^1 + 0\times 2^0 + 0\times 2^{-1} + 1\times 2^{-2} + 1\times 2^{-3}=6.375$**</font>
 
 
 
-<font color="#FDBC40" size="6">**八进制数$(754)_8$**</font>
+<font color="#5073D6" size="6">**八进制数$(754)_8$**</font>
 
 <img src="res/Screen Shot 2024-04-28 at 5.12.23 PM.png" alt="Screen Shot 2024-04-28 at 5.12.23 PM" style="zoom:40%;" align="left"/>
 
-<font color="#FDBC40" size="4">**$(754)_8=7\times 8^2 + 5\times 8^1 + 4\times 8^0=492$**</font>
+<font color="#5073D6" size="4">**$(754)_8=7\times 8^2 + 5\times 8^1 + 4\times 8^0=492$**</font>
 
 
 
-<font color="#FDBC40" size="6">**十六进制数$(28DF)_{16}$**</font>
+<font color="#5073D6" size="6">**十六进制数$(28DF)_{16}$**</font>
 
-<font color="#FDBC40" size="4">**$(28DF)_{16}=2\times 16^3 + 8\times 16^2 + 13\times 16^1 + 15\times 16^0=10463$**</font>
+<font color="#5073D6" size="4">**$(28DF)_{16}=2\times 16^3 + 8\times 16^2 + 13\times 16^1 + 15\times 16^0=10463$**</font>
 
 
 
@@ -558,21 +558,21 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 2. 商继续除基数直到为0为止
 3. 余数倒序即为结果
 
-<font color="#FDBC40" size="5">**十进制数转二进制数**</font>
+<font color="#5073D6" size="5">**十进制数转二进制数**</font>
 
-<font color="#FDBC40" size="5">**$13=(1101)_2$​**</font>
+<font color="#5073D6" size="5">**$13=(1101)_2$​**</font>
 
 <img src="res/Screenshot 2024-04-28 at 20.35.42.png" alt="Screenshot 2024-04-28 at 20.35.42" style="zoom:50%;" align="left"/>
 
-<font color="#FDBC40" size="5">**十进制数转八进制数**</font>
+<font color="#5073D6" size="5">**十进制数转八进制数**</font>
 
-<font color="#FDBC40" size="5">**$127=(177)_8$**</font>
+<font color="#5073D6" size="5">**$127=(177)_8$**</font>
 
 <img src="res/Screenshot 2024-04-28 at 20.38.33.png" alt="Screenshot 2024-04-28 at 20.38.33" style="zoom:50%;" align="left"/>
 
-<font color="#FDBC40" size="5">**十进制数转十六进制数**</font>
+<font color="#5073D6" size="5">**十进制数转十六进制数**</font>
 
-<font color="#FDBC40" size="5">**$127=(7F)_{16}$**</font>
+<font color="#5073D6" size="5">**$127=(7F)_{16}$**</font>
 
 <img src="res/Screenshot 2024-04-28 at 20.40.53.png" alt="Screenshot 2024-04-28 at 20.40.53" style="zoom:50%;" align="left"/>
 
@@ -580,15 +580,15 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 ### 按位权拆分法
 
-<font color="#FDBC40">相当于将十进制数用其它进制的位权组合表示，然后根据位权组合写出对应的数码组合</font>
+<font color="#5073D6">相当于将十进制数用其它进制的位权组合表示，然后根据位权组合写出对应的数码组合</font>
 
 ![Screenshot 2024-04-28 at 21.06.35](res/Screenshot 2024-04-28 at 21.06.35.png)
 
-$13 = 8 + 4 + 1 = $<font color="#FDBC40">1</font>$\times 2^3 + $<font color="#FDBC40">1</font>$\times 2^2 + $<font color="#FDBC40">0</font>$ \times 2^1 + $<font color="#FDBC40">1</font>$\times 2^0 = ($<font color="#FDBC40">1101</font>$)_2$
+$13 = 8 + 4 + 1 = $<font color="#5073D6">1</font>$\times 2^3 + $<font color="#5073D6">1</font>$\times 2^2 + $<font color="#5073D6">0</font>$ \times 2^1 + $<font color="#5073D6">1</font>$\times 2^0 = ($<font color="#5073D6">1101</font>$)_2$
 
-$127 = $<font color="#FDBC40">1</font>$\times 8^2 + $<font color="#FDBC40">7</font>$\times 8^1 + $<font color="#FDBC40">7</font>$ \times 8^0 = ($<font color="#FDBC40">177</font>$)_8$
+$127 = $<font color="#5073D6">1</font>$\times 8^2 + $<font color="#5073D6">7</font>$\times 8^1 + $<font color="#5073D6">7</font>$ \times 8^0 = ($<font color="#5073D6">177</font>$)_8$
 
-$127 = $<font color="#FDBC40">7</font>$\times 16^1 + $<font color="#FDBC40">15</font>$ \times 16^0 = ($<font color="#FDBC40">7F</font>$)_{16}$​
+$127 = $<font color="#5073D6">7</font>$\times 16^1 + $<font color="#5073D6">15</font>$ \times 16^0 = ($<font color="#5073D6">7F</font>$)_{16}$​
 
 
 
@@ -596,15 +596,15 @@ $127 = $<font color="#FDBC40">7</font>$\times 16^1 + $<font color="#FDBC40">15</
 
 ## 十进制小数转非十进制小数
 
-十进制小数转换成二进制小数采用<font color="#FDBC40">**乘2取整，顺序排列**</font>法。具体做法是：用2乘十进制小数，可以得到积，将积的整数部分取出，再用2乘余下的小数 部分，又得到一个积，再将积的整数部分取出，如此进行，直到积中的小数部分为零，或者达到所要求的精度为止。
+十进制小数转换成二进制小数采用<font color="#5073D6">**乘2取整，顺序排列**</font>法。具体做法是：用2乘十进制小数，可以得到积，将积的整数部分取出，再用2乘余下的小数 部分，又得到一个积，再将积的整数部分取出，如此进行，直到积中的小数部分为零，或者达到所要求的精度为止。
 
 然后把取出的整数部分按顺序排列起来，先取的整数作为二进制小数的高位有效位，后取的整数作为低位有效位。
 
-<font color="#FDBC40">$(0.8125)_2$转换为二进制小数</font>
+<font color="#5073D6">$(0.8125)_2$转换为二进制小数</font>
 
 <img src="res/210-3.png" alt="210-3" style="zoom:100%;" align="left"/>
 
-<font color="#FDBC40">十进制小数转换成八进制、十六进制小数也是类似的；采用乘8或16取整，顺序排列法</font>
+<font color="#5073D6">十进制小数转换成八进制、十六进制小数也是类似的；采用乘8或16取整，顺序排列法</font>
 
 
 
@@ -612,31 +612,31 @@ $127 = $<font color="#FDBC40">7</font>$\times 16^1 + $<font color="#FDBC40">15</
 
 ## 二进制数与八进制数转换
 
-<font color="#FDBC40">三位二进制数共能表示0、1、2、3、4、5、6、7八个数字，它们与八进制数一一对应</font>
+<font color="#5073D6">三位二进制数共能表示0、1、2、3、4、5、6、7八个数字，它们与八进制数一一对应</font>
 
-<font color="#FDBC40">$(000)_2=(0)_8$</font>  	<font color="#FDBC40">$(001)_2=(1)_8$</font>	<font color="#FDBC40">$(010)_2=(2)_8$</font>	<font color="#FDBC40">$(011)_2=(3)_8$</font>
+<font color="#5073D6">$(000)_2=(0)_8$</font>  	<font color="#5073D6">$(001)_2=(1)_8$</font>	<font color="#5073D6">$(010)_2=(2)_8$</font>	<font color="#5073D6">$(011)_2=(3)_8$</font>
 
-<font color="#FDBC40">$(100)_2=(4)_8$</font>  	<font color="#FDBC40">$(101)_2=(5)_8$</font>	<font color="#FDBC40">$(110)_2=(6)_8$</font>	<font color="#FDBC40">$(111)_2=(7)_8$</font>
+<font color="#5073D6">$(100)_2=(4)_8$</font>  	<font color="#5073D6">$(101)_2=(5)_8$</font>	<font color="#5073D6">$(110)_2=(6)_8$</font>	<font color="#5073D6">$(111)_2=(7)_8$</font>
 
 * 二进制数转八进制数
 
   1. 将二进制数从右向左，每3个一组进行划分，不足3个时，向最左边添加0
 
-     <font color="#FDBC40" size="5">$(11100100)_2 = $</font>  <font color="#FDBC40" size="5">(</font><font color="#FC605C" size="5">$0$</font><font color="#FDBC40" size="5">$11,100,100)_2$</font> 
+     <font color="#5073D6" size="5">$(11100100)_2 = $</font>  <font color="#5073D6" size="5">(</font><font color="#FC605C" size="5">$0$</font><font color="#5073D6" size="5">$11,100,100)_2$</font> 
 
   2. 将每组二进制数转为八进制数
 
-     <font color="#FDBC40" size="5">(</font><font color="#FC605C" size="5">$0$</font><font color="#FDBC40" size="5">$11,100,100)_2$</font> <font color="#FDBC40" size="5">$=(344)_8$</font>
+     <font color="#5073D6" size="5">(</font><font color="#FC605C" size="5">$0$</font><font color="#5073D6" size="5">$11,100,100)_2$</font> <font color="#5073D6" size="5">$=(344)_8$</font>
 
 * 八进制数转二进制数
 
   1. 将八进制数的每一位拆分为三位二进制数
 
-     <font color="#FDBC40" size="5">$(136)_8$</font><font color="#FDBC40" size="5">$=($</font><font color="#FC605C" size="5">$00$</font><font color="#FDBC40" size="5">$1,$</font><font color="#FDBC40" size="5">$011,110)_2$</font>
+     <font color="#5073D6" size="5">$(136)_8$</font><font color="#5073D6" size="5">$=($</font><font color="#FC605C" size="5">$00$</font><font color="#5073D6" size="5">$1,$</font><font color="#5073D6" size="5">$011,110)_2$</font>
 
   2. 将二进制数最左边多余的0去掉
 
-​		<font color="#FDBC40" size="5">$($</font><font color="#FC605C" size="5">$00$</font><font color="#FDBC40" size="5">$1,$</font><font color="#FDBC40" size="5">$011,110)_2$</font><font color="#FDBC40" size="5">$=(1011110)_2$</font>
+​		<font color="#5073D6" size="5">$($</font><font color="#FC605C" size="5">$00$</font><font color="#5073D6" size="5">$1,$</font><font color="#5073D6" size="5">$011,110)_2$</font><font color="#5073D6" size="5">$=(1011110)_2$</font>
 
 
 
@@ -644,35 +644,35 @@ $127 = $<font color="#FDBC40">7</font>$\times 16^1 + $<font color="#FDBC40">15</
 
 ## 二进制数与十六进制数转换
 
-<font color="#FDBC40">四位二进制数共能表示0、1、2、3、4、5、6、7、8、9、A、B、C、D、E、F十六个数字，它们与十六进制数一一对应</font>
+<font color="#5073D6">四位二进制数共能表示0、1、2、3、4、5、6、7、8、9、A、B、C、D、E、F十六个数字，它们与十六进制数一一对应</font>
 
-<font color="#FDBC40">$(0000)_2=(0)_{16}$</font>  	<font color="#FDBC40">$(0001)_2=(1)_{16}$</font>		<font color="#FDBC40">$(0010)_2=(2)_{16}$</font>		<font color="#FDBC40">$(0011)_2=(3)_{16}$</font>
+<font color="#5073D6">$(0000)_2=(0)_{16}$</font>  	<font color="#5073D6">$(0001)_2=(1)_{16}$</font>		<font color="#5073D6">$(0010)_2=(2)_{16}$</font>		<font color="#5073D6">$(0011)_2=(3)_{16}$</font>
 
-<font color="#FDBC40">$(0100)_2=(4)_{16}$</font>  	<font color="#FDBC40">$(0101)_2=(5)_{16}$</font>		<font color="#FDBC40">$(0110)_2=(6)_{16}$</font>		<font color="#FDBC40">$(0111)_2=(7)_{16}$</font>
+<font color="#5073D6">$(0100)_2=(4)_{16}$</font>  	<font color="#5073D6">$(0101)_2=(5)_{16}$</font>		<font color="#5073D6">$(0110)_2=(6)_{16}$</font>		<font color="#5073D6">$(0111)_2=(7)_{16}$</font>
 
-<font color="#FDBC40">$(1000)_2=(8)_{16}$</font>  	<font color="#FDBC40">$(1001)_2=(9)_{16}$</font>		<font color="#FDBC40">$(1010)_2=(A)_{16}$</font>		<font color="#FDBC40">$(1011)_2=(B)_{16}$</font>
+<font color="#5073D6">$(1000)_2=(8)_{16}$</font>  	<font color="#5073D6">$(1001)_2=(9)_{16}$</font>		<font color="#5073D6">$(1010)_2=(A)_{16}$</font>		<font color="#5073D6">$(1011)_2=(B)_{16}$</font>
 
-<font color="#FDBC40">$(1100)_2=(C)_{16}$</font>  	<font color="#FDBC40">$(1101)_2=(D)_{16}$</font>		<font color="#FDBC40">$(1110)_2=(E)_{16}$</font>		<font color="#FDBC40">$(1111)_2=(F)_{16}$</font>
+<font color="#5073D6">$(1100)_2=(C)_{16}$</font>  	<font color="#5073D6">$(1101)_2=(D)_{16}$</font>		<font color="#5073D6">$(1110)_2=(E)_{16}$</font>		<font color="#5073D6">$(1111)_2=(F)_{16}$</font>
 
 * 二进制数转十六进制数
 
   1. 将二进制数从右向左，每4个一组进行划分，不足4个时，向最左边添加0
 
-     <font color="#FDBC40" size="5">$(1011100100)_2=($</font><font color="#FC605C" size="5">$00$</font><font color="#FDBC40" size="5">$10,1110,0100)_2$​</font>
+     <font color="#5073D6" size="5">$(1011100100)_2=($</font><font color="#FC605C" size="5">$00$</font><font color="#5073D6" size="5">$10,1110,0100)_2$​</font>
 
   2. 将每组二进制数转为十六进制数
 
-     <font color="#FDBC40" size="5">$($</font><font color="#FC605C" size="5">$00$</font><font color="#FDBC40" size="5">$10,1110,0100)_2$</font><font color="#FDBC40" size="5">$=(2E4)_{16}$</font>
+     <font color="#5073D6" size="5">$($</font><font color="#FC605C" size="5">$00$</font><font color="#5073D6" size="5">$10,1110,0100)_2$</font><font color="#5073D6" size="5">$=(2E4)_{16}$</font>
 
 * 十六进制数转二进制数
 
   1. 将十六进制数的每一位拆分为四位二进制数
 
-     <font color="#FDBC40" size="5">$(51A)_{16}=($</font><font color="#FC605C" size="5">$0$</font><font color="#FDBC40" size="5">$101,0001,1010)_2$</font>
+     <font color="#5073D6" size="5">$(51A)_{16}=($</font><font color="#FC605C" size="5">$0$</font><font color="#5073D6" size="5">$101,0001,1010)_2$</font>
 
   2. 将二进制数最左边多余的0去掉
 
-​		<font color="#FDBC40" size="5">$($</font><font color="#FC605C" size="5">$0$</font><font color="#FDBC40" size="5">$101,0001,1010)_2$</font><font color="#FDBC40" size="5">$=(10100011010)_2$</font>
+​		<font color="#5073D6" size="5">$($</font><font color="#FC605C" size="5">$0$</font><font color="#5073D6" size="5">$101,0001,1010)_2$</font><font color="#5073D6" size="5">$=(10100011010)_2$</font>
 
 
 
@@ -684,9 +684,9 @@ $127 = $<font color="#FDBC40">7</font>$\times 16^1 + $<font color="#FDBC40">15</
 
 ### 定义
 
-设<font color="#FDBC40">$a,b$是整数</font>，<font color="#FDBC40">$b\neq0$</font>. 如果有一个<font color="#FDBC40">整数$c$</font>，它使得<font color="#FDBC40">$a=b\times c$</font>，则<font color="#FDBC40">$a$叫做$b$的倍数，$b$叫做$a$的因数</font>，这时我们说，<font color="#FDBC40">b能整除a或a能被b整除</font>，我们用符号<font color="#FDBC40">b|a</font>来表示这种整除关系.
+设<font color="#5073D6">$a,b$是整数</font>，<font color="#5073D6">$b\neq0$</font>. 如果有一个<font color="#5073D6">整数$c$</font>，它使得<font color="#5073D6">$a=b\times c$</font>，则<font color="#5073D6">$a$叫做$b$的倍数，$b$叫做$a$的因数</font>，这时我们说，<font color="#5073D6">b能整除a或a能被b整除</font>，我们用符号<font color="#5073D6">b|a</font>来表示这种整除关系.
 
-即: <font color="#FDBC40" size="6">$\frac{a}{b}或a÷b$</font>
+即: <font color="#5073D6" size="6">$\frac{a}{b}或a÷b$</font>
 
 * a，b是整数
 
@@ -711,7 +711,7 @@ a, a\geq0\\
 \end{aligned}
 \right.
 $$
-<font color="#FDBC40">$|a|叫做a的绝对值$</font>
+<font color="#5073D6">$|a|叫做a的绝对值$</font>
 
 如：$|2|=|-2|=2$
 
@@ -719,7 +719,7 @@ $$
 
 ### 引理
 
-<font color="#FDBC40">以下引理需要记忆，不要求证明</font>
+<font color="#5073D6">以下引理需要记忆，不要求证明</font>
 
 1. 如果a,b是两个整数并且满足a|b，则$(-a)|b、a|(-b)、(-a)|(-b)、|a|||b|$
 
@@ -733,13 +733,13 @@ $$
 
    $如a=0，b=-5$
 
-4. <font color="#FDBC40">如果$a,b$是整数，$b\neq 0$，则一定有并且只有两个整数$q，r$，可使</font>
+4. <font color="#5073D6">如果$a,b$是整数，$b\neq 0$，则一定有并且只有两个整数$q，r$，可使</font>
 
-   <font color="#FDBC40">$a = b\times q + r，0\leq r \leq|b|$，成立</font>
+   <font color="#5073D6">$a = b\times q + r，0\leq r \leq|b|$，成立</font>
 
-   $如a = 9, b = 3$，则<font color="#FDBC40">9 = 3</font>$\times$<font color="#FC605C">3</font> $+$ <font color="#FC605C">0</font>
+   $如a = 9, b = 3$，则<font color="#5073D6">9 = 3</font>$\times$<font color="#FC605C">3</font> $+$ <font color="#FC605C">0</font>
 
-   $如a = 10, b = 3$，则<font color="#FDBC40">10 = 3</font>$\times$<font color="#FC605C">3</font> $+$ <font color="#FC605C">1</font>
+   $如a = 10, b = 3$，则<font color="#5073D6">10 = 3</font>$\times$<font color="#FC605C">3</font> $+$ <font color="#FC605C">1</font>
 
    <font color="#FC605C">即两个整数相除，除数不为0时，商和余数是确定且唯一的；这里的a可以看成被除数、b可以看成除数、q可以看成商、r可以看成余数</font>
 
@@ -751,19 +751,19 @@ $$
 
 ### 定义
 
-一个大于1的正整数，只能被1和它本身整除，不能被其他正整数整除，这样的正整数叫做<font color="#FDBC40">素数或者质数</font>
+一个大于1的正整数，只能被1和它本身整除，不能被其他正整数整除，这样的正整数叫做<font color="#5073D6">素数或者质数</font>
 
-一个正整数除了能被1和本身整除以外，还能被另外的正整数整除，这样的正整数叫做<font color="#FDBC40">合数</font>
+一个正整数除了能被1和本身整除以外，还能被另外的正整数整除，这样的正整数叫做<font color="#5073D6">合数</font>
 
-<font color="#FDBC40">**由素数与合数的定义，全体正整数可分为三类：**</font>
+<font color="#5073D6">**由素数与合数的定义，全体正整数可分为三类：**</font>
 
-<ul style="color: #FDBC40;">
+<ul style="color: #5073D6;">
   <li>1</li>
 </ul>
-<ul style="color: #FDBC40;">
+<ul style="color: #5073D6;">
   <li>全体素数</li>
 </ul>
-<ul style="color: #FDBC40;">
+<ul style="color: #5073D6;">
   <li>全体合数</li>
 </ul>
 
@@ -776,7 +776,7 @@ $$
 
 ### 引理
 
-<font color="#FDBC40">以下引理需要记忆，不要求证明</font>
+<font color="#5073D6">以下引理需要记忆，不要求证明</font>
 
 1. 如果a是一个大于1的整数，则a的大于1的最小因数一定是素数
 2. 如果a是一个大于1的整数，而所有$\leq \sqrt a$​的素数都除不尽a，则a是素数
@@ -784,7 +784,7 @@ $$
 
 ### 目前已知的最大素数
 
-<font color="#FDBC40" size="6">$2^{82589933} - 1$</font>
+<font color="#5073D6" size="6">$2^{82589933} - 1$</font>
 
 ### 孪生素数
 
@@ -796,7 +796,7 @@ $$
 
 ![Screen Shot 2024-04-30 at 12.01.02 PM](res/Screen Shot 2024-04-30 at 12.01.02 PM.png)
 
-<font color="#FDBC40" size="5">**凡是大于4的偶数都可以表示为两个素数之和？**</font>
+<font color="#5073D6" size="5">**凡是大于4的偶数都可以表示为两个素数之和？**</font>
 
 
 
@@ -808,7 +808,7 @@ $$
 
 任何一个大于1的自然数n，都可以唯一分解成有限个质数的乘积，写作$n=p_1^{a_1} \times p_2^{a_2} \times ... \times p_m^{a_m}$，表示n有m种不同的质因数，每种质因数有$a_i$个。
 
-当$p_1、p_2...、p_m$从小到大排列时，我们把<font color="#FDBC40">$n=p_1^{a_1} \times p_2^{a_2} \times ... \times p_m^{a_m}$</font>叫做$n$的标准分解式，如：
+当$p_1、p_2...、p_m$从小到大排列时，我们把<font color="#5073D6">$n=p_1^{a_1} \times p_2^{a_2} \times ... \times p_m^{a_m}$</font>叫做$n$的标准分解式，如：
 
 $600的标准分解式: 600=2^3\times 3^1 \times 5^2$​​
 
@@ -822,7 +822,7 @@ $10725的标准分解式: 10725=3\times 5^2 \times 11 \times 13$
 
 ### 因数个数
 
-若自然数n可以唯一分解为$p_1^{a_1} \times p_2^{a_2} \times ... \times p_m^{a_m}$，则n的因数个数可以表示为<font color="#FDBC40" size="5">$(a_1 +1)\times (a_2 +1) \times ...\times (a_m +1)$</font>
+若自然数n可以唯一分解为$p_1^{a_1} \times p_2^{a_2} \times ... \times p_m^{a_m}$，则n的因数个数可以表示为<font color="#5073D6" size="5">$(a_1 +1)\times (a_2 +1) \times ...\times (a_m +1)$</font>
 
 如24的唯一分解为$24=2^3\times 3^1$，则24的因数个数为$(3+1)\times (1+1)=8$
 
@@ -832,7 +832,7 @@ $10725的标准分解式: 10725=3\times 5^2 \times 11 \times 13$
 
 若自然数n可以唯一分解为$p_1^{a_1} \times p_2^{a_2} \times ... \times p_m^{a_m}$，则n的所有因数总和可以表示为
 
-<font color="#FDBC40">$(p_1^0 + p_1 ^1 + ... + p_1^{a_1})\times (p_2^0 + p_2 ^1 + ... + p_2^{a_2})\times ... \times (p_m^0 + p_m ^1 + ... + p_m^{a_m})$</font>
+<font color="#5073D6">$(p_1^0 + p_1 ^1 + ... + p_1^{a_1})\times (p_2^0 + p_2 ^1 + ... + p_2^{a_2})\times ... \times (p_m^0 + p_m ^1 + ... + p_m^{a_m})$</font>
 
 如24的唯一分解为$24=2^3\times 3^1$，则24的所以因数总和为$(2^0 + 2^1 + 2^2 + 2^3)\times (3^0 + 3^1) = 60$
 
@@ -844,11 +844,11 @@ $10725的标准分解式: 10725=3\times 5^2 \times 11 \times 13$
 
 ### 定义
 
-如果整数$n\geq2$，并且整数$a_1、a_2、...a_n和d$满足$d|a_1,d|a_2,...,d|a_n$，则d叫做$a_1,a_2,...,a_n$的公因数，<font color="#FDBC40">公因数中最大的一个叫做$a_1、a_2、...a_n的最大公因数.$</font>
+如果整数$n\geq2$，并且整数$a_1、a_2、...a_n和d$满足$d|a_1,d|a_2,...,d|a_n$，则d叫做$a_1,a_2,...,a_n$的公因数，<font color="#5073D6">公因数中最大的一个叫做$a_1、a_2、...a_n的最大公因数.$</font>
 
-我们写成<font color="#FDBC40">$(a_1,a_2,...,a_n)=d$</font>
+我们写成<font color="#5073D6">$(a_1,a_2,...,a_n)=d$</font>
 
-<font color="#FDBC40">**求几个正整数的最大公因数时，先把这些正整数分别分解质因数，然后取出它们所公有的质因数相乘**</font>
+<font color="#5073D6">**求几个正整数的最大公因数时，先把这些正整数分别分解质因数，然后取出它们所公有的质因数相乘**</font>
 
 求$48、60和72$的最大公因数
 
@@ -866,31 +866,31 @@ $48、60和72公有的素因数是2,2,3$，它们的乘积就是这三个数的�
 
 ### 引理
 
-<font color="#FDBC40">假设a和b都是正整数，且$a\gt b$，$a = b\times q + r$，其中$q$和$r$都是正整数，则$a$和$b$的最大公因数等于$b$和$r$的最大公因数，即$(a,b)=(b,r)$</font>
+<font color="#5073D6">假设a和b都是正整数，且$a\gt b$，$a = b\times q + r$，其中$q$和$r$都是正整数，则$a$和$b$的最大公因数等于$b$和$r$的最大公因数，即$(a,b)=(b,r)$</font>
 
 $求6731和2809的最大公因数$
 
 $6731=2809\times 2 + 1113$
 
-<font color="#FDBC40">$(6731,2809) = (2809,1113)$</font>
+<font color="#5073D6">$(6731,2809) = (2809,1113)$</font>
 
 $2809 = 1113\times 2 + 583$
 
-<font color="#FDBC40">$(2809,1113) = (1113,583)$</font>
+<font color="#5073D6">$(2809,1113) = (1113,583)$</font>
 
 $1113 = 583 \times 1 + 530$
 
-<font color="#FDBC40">$(1113,583) = (583,530)$</font>
+<font color="#5073D6">$(1113,583) = (583,530)$</font>
 
 $583=530+53$
 
-<font color="#FDBC40">$(583,530)=(530, 53)$​</font>
+<font color="#5073D6">$(583,530)=(530, 53)$​</font>
 
 $530=53\times 10 + 0$
 
-<font color="#FDBC40">$(530, 53)=53$</font>
+<font color="#5073D6">$(530, 53)=53$</font>
 
-<font color="#FDBC40">**$所以(6731,2809)=(530, 53)=53$**</font>
+<font color="#5073D6">**$所以(6731,2809)=(530, 53)=53$**</font>
 
 <font color="#FC605C">**以上求最大公约数的方法叫做辗转相除法**</font>
 
@@ -912,13 +912,13 @@ $530=53\times 10 + 0$
 
 ### 定义
 
-如果整数$n\geq 2$，并且$a_1，a_2,...,a_n$和m都是正整数，又$a_1|m，a_2|m，...,a_n|m$，则m叫做$a_1,a_2,...,a_n$的公倍数，在$a_1，a_2,...,a_n$所有的公倍数中，最小的一个公倍数叫做$a_1，a_2,...,a_n$的最小公倍数，我们<font color="#FDBC40">写作$\{a_1,a_2,...,a_n\}=m$</font>
+如果整数$n\geq 2$，并且$a_1，a_2,...,a_n$和m都是正整数，又$a_1|m，a_2|m，...,a_n|m$，则m叫做$a_1,a_2,...,a_n$的公倍数，在$a_1，a_2,...,a_n$所有的公倍数中，最小的一个公倍数叫做$a_1，a_2,...,a_n$的最小公倍数，我们<font color="#5073D6">写作$\{a_1,a_2,...,a_n\}=m$</font>
 
 如$\{4,6\}=12$
 
-如果<font color="#FDBC40">求n个正整数$a_1,a_2,...,a_n$的最小公倍数</font>，可先将它们分解成标准分解式<font color="#FDBC40">$p_1^{a_1} \times p_2^{a_2} \times ... \times p_m^{a_m}$</font>，然后找出所有$p_i^{a_i+1}$，要满足它不能整除所有的$a_1,a_2,...,a_n$，最后将所有$p_i^{a_i}$相乘，就得到这n个数$a_1,a_2,...,a_n$的最小公倍数
+如果<font color="#5073D6">求n个正整数$a_1,a_2,...,a_n$的最小公倍数</font>，可先将它们分解成标准分解式<font color="#5073D6">$p_1^{a_1} \times p_2^{a_2} \times ... \times p_m^{a_m}$</font>，然后找出所有$p_i^{a_i+1}$，要满足它不能整除所有的$a_1,a_2,...,a_n$，最后将所有$p_i^{a_i}$相乘，就得到这n个数$a_1,a_2,...,a_n$的最小公倍数
 
-<font color="#FDBC40">求$108,28和42$的最小公倍数</font>
+<font color="#5073D6">求$108,28和42$的最小公倍数</font>
 
 $108=$<font color="#FC605C">$2^2$</font>$\times$ <font color="#FC605C">$3^3$</font>
 
@@ -926,7 +926,7 @@ $28=2^2\times$ <font color="#FC605C">$7$</font>
 
 $42=2\times 3 \times 7$
 
-可以发现$2^{2+1}、3^{3+1}、7^{1+1}$都不能整除$108、28、42$，所以<font color="#FDBC40">$108,28和42$的最小公倍数是：</font><font color="#FC605C">$2^2$</font>$\times$ <font color="#FC605C">$3^3$</font> $\times$ <font color="#FC605C">$7$</font> = <font color="#FC605C">$756$</font>
+可以发现$2^{2+1}、3^{3+1}、7^{1+1}$都不能整除$108、28、42$，所以<font color="#5073D6">$108,28和42$的最小公倍数是：</font><font color="#FC605C">$2^2$</font>$\times$ <font color="#FC605C">$3^3$</font> $\times$ <font color="#FC605C">$7$</font> = <font color="#FC605C">$756$</font>
 
 
 
@@ -946,13 +946,13 @@ $42=2\times 3 \times 7$
 
 假设$a和b$都是正整数，并且$a和b$的最小公倍数是$m$，即$\{a,b\}=m$，如果$m^{'}$是$a和b$的公倍数，则有$m|m^{'}$
 
-<font color="#FDBC40">即最小公倍数与其它公倍数满足整除的关系</font>
+<font color="#5073D6">即最小公倍数与其它公倍数满足整除的关系</font>
 
 #### 引理3
 
 假设$a和b$都是正整数，并且$a和b$的最小公倍数是$m$，$a和b$的最大公因数是$d$，即$\{a,b\}=m,(a,b)=d$，则$a\times b = d\times m$
 
-<font color="#FDBC40">即两个正整数的乘积等于这两个数的最小公倍数与最大公因数的乘积</font>
+<font color="#5073D6">即两个正整数的乘积等于这两个数的最小公倍数与最大公因数的乘积</font>
 
 
 
@@ -962,7 +962,7 @@ $42=2\times 3 \times 7$
 
 ### 模运算
 
-<font color="#FDBC40">目的是求两个数相除的余数</font>；在模运算中给定两个数a和b（b不等于0），模运算的结果是a除以b后得到的余数，通常表示为<font color="#FDBC40">a mod b或a % b</font>
+<font color="#5073D6">目的是求两个数相除的余数</font>；在模运算中给定两个数a和b（b不等于0），模运算的结果是a除以b后得到的余数，通常表示为<font color="#5073D6">a mod b或a % b</font>
 
 如：11除以2的余数是1，所以11 mod 2或11 % 2的结果是1
 
@@ -976,7 +976,7 @@ $42=2\times 3 \times 7$
 
 #### 定义
 
-如果a和b都是整数，对于一个固定的整数m，当<font color="#FDBC40">$m|(a-b)$</font>时，我们说a，b对模m同余，<font color="#FDBC40">记作a≡b(mod m)</font>
+如果a和b都是整数，对于一个固定的整数m，当<font color="#5073D6">$m|(a-b)$</font>时，我们说a，b对模m同余，<font color="#5073D6">记作a≡b(mod m)</font>
 
 如：$29≡2(mod\ 9)、93≡-7(mod\ 50)$
 
@@ -992,7 +992,7 @@ $a≡b(mod\ m)$
 
 $b≡c(mod\ m)$​
 
-都成立时，我们有<font color="#FDBC40">a≡c(mod m)</font>
+都成立时，我们有<font color="#5073D6">a≡c(mod m)</font>
 
 如：$3≡5(mod\ 2)、5≡7(mod\ 2)$，那么$3≡7(mod\ 2)$
 
@@ -1006,11 +1006,11 @@ $c≡d(mod\ m)$​
 
 都成立时，我们有
 
-<font color="#FDBC40">a+c≡b+d(mod m)</font>
+<font color="#5073D6">a+c≡b+d(mod m)</font>
 
-<font color="#FDBC40">a-c≡b-d(mod m)</font>
+<font color="#5073D6">a-c≡b-d(mod m)</font>
 
-<font color="#FDBC40">axc≡bxd(mod m)</font>
+<font color="#5073D6">axc≡bxd(mod m)</font>
 
 如：$22≡26(mod\ 4)、9≡13(mod\ 4)$，那么$22+9≡26+13(mod\ 4)、22-9≡26-13(mod\ 4)、22\times 9≡26\times 13(mod\ 4)$
 
@@ -1020,7 +1020,7 @@ $c≡d(mod\ m)$​
 
 $a≡b(mod\ m)$
 
-成立时，我们有<font color="#FDBC40">ac≡bc(mod m)</font>
+成立时，我们有<font color="#5073D6">ac≡bc(mod m)</font>
 
 如：$3≡5(mod\ 2)$，那么$3\times 7≡5\times 7(mod\ 2)$
 
@@ -1030,7 +1030,7 @@ $a≡b(mod\ m)$
 
 $a≡b(mod\ m)$
 
-成立时，我们有<font color="#FDBC40">$a^n≡b^n(mod\ m)$</font>
+成立时，我们有<font color="#5073D6">$a^n≡b^n(mod\ m)$</font>
 
 如：$3≡5(mod\ 2)$，那么$3^3≡5^3(mod\ 2)$
 
@@ -1048,7 +1048,7 @@ $a_n≡b_n(mod\ m)$
 
 都成立时，我们有
 
-<font color="#FDBC40">$a_1+a_2+...+a_n≡b_1+b_2+...+b_n(mod\ m)$</font>
+<font color="#5073D6">$a_1+a_2+...+a_n≡b_1+b_2+...+b_n(mod\ m)$</font>
 
 如：
 
@@ -1058,7 +1058,7 @@ $11≡14(mod\ 3)$
 
 $17≡23(mod\ 3)$​
 
-那么<font color="#FDBC40">$5+11+17≡8+14+23(mod\ 3)$</font>
+那么<font color="#5073D6">$5+11+17≡8+14+23(mod\ 3)$</font>
 
 
 
@@ -1068,11 +1068,11 @@ $5874192=5\times 10^6+8\times 10^5+7\times 10^4+4\times 10^3+10^2+9\times 10+2$�
 
 我们知道$10≡1(mod\ 9)$
 
-由<font color="#FDBC40">引理4</font>，我们知道$10^n≡1^n(mod\ 9)$，即$10^n≡1(mod\ 9)$​
+由<font color="#5073D6">引理4</font>，我们知道$10^n≡1^n(mod\ 9)$，即$10^n≡1(mod\ 9)$​
 
-由<font color="#FDBC40">引理3</font>，我们知道$5\times 10^6=5(mod9)$、$8\times 10^5=8(mod9)$、$7\times 10^4=7(mod9)$、$4\times 10^3=4(mod9)$、$10^2=1(mod9)$、$9\times 10=9(mod9)$
+由<font color="#5073D6">引理3</font>，我们知道$5\times 10^6=5(mod9)$、$8\times 10^5=8(mod9)$、$7\times 10^4=7(mod9)$、$4\times 10^3=4(mod9)$、$10^2=1(mod9)$、$9\times 10=9(mod9)$
 
-由<font color="#FDBC40">引理5</font>，我们知道$5\times 10^6+8\times 10^5+7\times 10^4+4\times 10^3+10^2+9\times 10+2≡5+8+7+4+1+9+2(mod\ 9)$
+由<font color="#5073D6">引理5</font>，我们知道$5\times 10^6+8\times 10^5+7\times 10^4+4\times 10^3+10^2+9\times 10+2≡5+8+7+4+1+9+2(mod\ 9)$
 
 即$5874192≡5+8+7+4+1+9+2(mod\ 9)$
 
@@ -1082,7 +1082,7 @@ $5874192=5\times 10^6+8\times 10^5+7\times 10^4+4\times 10^3+10^2+9\times 10+2$�
 
 #### 性质
 
-* <font color="#FDBC40">和的余数等于余数的和</font>
+* <font color="#5073D6">和的余数等于余数的和</font>
 
   即对于正整数$a，b和n$，按照模运算的定义，我们可以表示：
 
@@ -1102,7 +1102,7 @@ $5874192=5\times 10^6+8\times 10^5+7\times 10^4+4\times 10^3+10^2+9\times 10+2$�
 
   
 
-* <font color="#FDBC40">积的余数等于余数的积</font>
+* <font color="#5073D6">积的余数等于余数的积</font>
 
   假设有一个正整数 $n$，然后考虑两个整数 $a$ 和 $b$。按照模运算的定义，我们可以表示：
 
@@ -1133,21 +1133,21 @@ $5874192=5\times 10^6+8\times 10^5+7\times 10^4+4\times 10^3+10^2+9\times 10+2$�
 
 ## 加法原理
 
-也叫<font color="#FDBC40">分类加法计数原理</font>
+也叫<font color="#5073D6">分类加法计数原理</font>
 
 指的是在完成一个目标时可以有n类方法，在第一类方法中有$m_1$种不同的方法，在第二类方法中有$m_2$种不同的方法，以此类推，在第$n$类方法中有$m_n$种不同的方法，那么完成这个目标共有$N$中方法。
 
-<font color="#FDBC40" size="5">$N=m_1+m_2+...+m_n$</font>
+<font color="#5073D6" size="5">$N=m_1+m_2+...+m_n$</font>
 
 <font size="5">例1</font>
 
-从武汉到上海有<font color="#FDBC40">乘飞机、火车、轮船3种交通工具</font>，而飞机有<font color="#FDBC40">a个班次</font>；火车有<font color="#FDBC40">b个班次</font>；轮船有<font color="#FDBC40">c个班次</font>，那么从武汉到上海共有<font color="#FDBC40">$a+b+c$</font>种方式
+从武汉到上海有<font color="#5073D6">乘飞机、火车、轮船3种交通工具</font>，而飞机有<font color="#5073D6">a个班次</font>；火车有<font color="#5073D6">b个班次</font>；轮船有<font color="#5073D6">c个班次</font>，那么从武汉到上海共有<font color="#5073D6">$a+b+c$</font>种方式
 
 <img src="res/Screen Shot 2024-05-14 at 2.31.53 PM.png" alt="Screen Shot 2024-05-14 at 2.31.53 PM" style="zoom:50%;" align="left" />
 
 从武汉到上海有3类方法，每类方法有3个方法
 
-<font color="#FDBC40">根据加法原理：$N=3+3+3=9$种</font>
+<font color="#5073D6">根据加法原理：$N=3+3+3=9$种</font>
 
 <font size="5">例2</font>
 
@@ -1159,17 +1159,17 @@ $5874192=5\times 10^6+8\times 10^5+7\times 10^4+4\times 10^3+10^2+9\times 10+2$�
 2. 从4本不同的物理书中选一本，有4种方法
 3. 从3本不同的化学书中选一本，有3种方法
 
-<font color="#FDBC40">根据加法原理：$N=5+4+3=12$种</font>
+<font color="#5073D6">根据加法原理：$N=5+4+3=12$种</font>
 
 
 
 ## 乘法原理
 
-也叫<font color="#FDBC40">分步乘法计数原理</font>
+也叫<font color="#5073D6">分步乘法计数原理</font>
 
 乘法原理是指要完成一个目标，需要分成$n$个步骤，做第一步时有$m_1$种不同方法，做第二步时有$m_2$种不同方法，以此类推，做第$n$步时有$m_n$种不同方法，那么完成这件事有$N$种不同方法。
 
-<font color="#FDBC40" size="5">$N=m_1\times m_2\times...\times m_n$</font>
+<font color="#5073D6" size="5">$N=m_1\times m_2\times...\times m_n$</font>
 
 <font size="5">例1</font>
 
@@ -1183,7 +1183,7 @@ $5874192=5\times 10^6+8\times 10^5+7\times 10^4+4\times 10^3+10^2+9\times 10+2$�
 
 2. 从乙地到丙地，有2条路径
 
-<font color="#FDBC40">根据乘法原理：$N=3\times 2=6$种</font>
+<font color="#5073D6">根据乘法原理：$N=3\times 2=6$种</font>
 
 <font size="5">例2</font>
 
@@ -1195,7 +1195,7 @@ $5874192=5\times 10^6+8\times 10^5+7\times 10^4+4\times 10^3+10^2+9\times 10+2$�
 2. 设置密码锁的第二位，有10种方法
 3. 设置密码锁的第三位，有10种方法
 
-<font color="#FDBC40">根据乘法原理：$N=10\times 10\times 10=10^3$种</font>
+<font color="#5073D6">根据乘法原理：$N=10\times 10\times 10=10^3$种</font>
 
 <font size="5">例3</font>
 
@@ -1208,7 +1208,7 @@ $5874192=5\times 10^6+8\times 10^5+7\times 10^4+4\times 10^3+10^2+9\times 10+2$�
 3. 第三名同学报名，有3种报法
 4. 第四名同学报名，有3种报法
 
-<font color="#FDBC40">根据乘法原理：$N=3\times 3 \times 3 \times3=3^4种$</font>
+<font color="#5073D6">根据乘法原理：$N=3\times 3 \times 3 \times3=3^4种$</font>
 
 <font size="5">例4</font>
 
@@ -1222,7 +1222,7 @@ $2160化为标准分解式为2^4\times 3^3 \times 5^1$
 2. 从$3^3$中取一个因数有$3^0、3^1、3^2、3^3$，4种取法
 3. 从$5^1$中取一个因数有$5^0、5^1$，2种取法
 
-<font color="#FDBC40">根据乘法原理正因数个数有：$N_2=5\times 4 \times 2=40种$</font>
+<font color="#5073D6">根据乘法原理正因数个数有：$N_2=5\times 4 \times 2=40种$</font>
 
 <font size="5">例5</font>
 
@@ -1239,7 +1239,7 @@ $2160化为标准分解式为2^4\times 3^3 \times 5^1$
    1. 甲地到乙地，有2条路
    2. 乙地到丁地，有3条路
 
-   <font color="#FDBC40">根据乘法原理：$N_1=2\times 3=6种$</font>
+   <font color="#5073D6">根据乘法原理：$N_1=2\times 3=6种$</font>
 
 2. 甲地经丙地到丁地
 
@@ -1248,9 +1248,9 @@ $2160化为标准分解式为2^4\times 3^3 \times 5^1$
    1. 甲地到丙地，有4条路
    2. 丙地到丁地，有2条路
 
-​	<font color="#FDBC40">根据乘法原理：$N_2=2\times 4=8种$</font>
+​	<font color="#5073D6">根据乘法原理：$N_2=2\times 4=8种$</font>
 
-<font color="#FDBC40">根据加法原理从甲地到丁：$N=N_1+N_2=6+8=14$种</font>
+<font color="#5073D6">根据加法原理从甲地到丁：$N=N_1+N_2=6+8=14$种</font>
 
 
 
@@ -1260,7 +1260,7 @@ $2160化为标准分解式为2^4\times 3^3 \times 5^1$
 
 ### 排列
 
-<font size="5">假设有3个字母，分别是a、b、c，现在将这3个字母<font color="#FDBC40">按顺序</font>排成一队，请问有多少种排队方法？</font>
+<font size="5">假设有3个字母，分别是a、b、c，现在将这3个字母<font color="#5073D6">按顺序</font>排成一队，请问有多少种排队方法？</font>
 
 <font color="#FC605C"><u>①号位</u> <u>②号位</u> <u>③号位</u></font>
 
@@ -1286,7 +1286,7 @@ $2160化为标准分解式为2^4\times 3^3 \times 5^1$
 
 * 乘法原理
 
-  将a、b、c三个字母按顺序排成一队，要<font color="#FDBC40">分为3个步骤</font>
+  将a、b、c三个字母按顺序排成一队，要<font color="#5073D6">分为3个步骤</font>
 
   1. 把①号位分配给a、b、c中的一个，有3种方法
   2. 把②号位分配给剩下两个字母中的一个，有2种方法
@@ -1308,13 +1308,13 @@ $2160化为标准分解式为2^4\times 3^3 \times 5^1$
 
 推广到n个不同元素按顺序排成一队有$n \times (n-1) \times (n-2) \times ... \times 2 \times 1$种
 
-我们将这种n个不同元素<font color="#FDBC40">按顺序</font>排成一队，叫做<font color="#FDBC40">全排列</font>，用$A_n^n$表示
+我们将这种n个不同元素<font color="#5073D6">按顺序</font>排成一队，叫做<font color="#5073D6">全排列</font>，用$A_n^n$表示
 
-<font color="#FDBC40" size="5">$A_n^n = n \times (n-1) \times (n-2) \times ... \times 2 \times 1$​​</font>
+<font color="#5073D6" size="5">$A_n^n = n \times (n-1) \times (n-2) \times ... \times 2 \times 1$​​</font>
 
 其中$n \times (n-1) \times (n-2) \times ... \times 2 \times 1$也是$n!$，读作“n的阶乘”，所以
 
-<font color="#FDBC40" size="5">$A_n^n = n! = n \times (n-1) \times (n-2) \times ... \times 2 \times 1$</font>
+<font color="#5073D6" size="5">$A_n^n = n! = n \times (n-1) \times (n-2) \times ... \times 2 \times 1$</font>
 
 如将5个不同元素按顺序排成一队表示为$A_5^5$，有$5 \times 4\times 3\times 2 \times 1 = 120$种
 
@@ -1324,7 +1324,7 @@ $2160化为标准分解式为2^4\times 3^3 \times 5^1$
 
 <font color="#FC605C"><u>①号位</u> <u>②号位</u> </font>
 
-将4个不同元素中的两个按顺序进行排列，可以分为<font color="#FDBC40">两个步骤</font>
+将4个不同元素中的两个按顺序进行排列，可以分为<font color="#5073D6">两个步骤</font>
 
 1. 把①号位分配给4个元素中的一个，有4种方法
 2. 把②号位分配给剩下3个元素中的一个，有3种方法
@@ -1335,11 +1335,11 @@ $2160化为标准分解式为2^4\times 3^3 \times 5^1$
 
 从n个不同的元素中，取出m个元素$(m<n)$，按顺序排成一列，有$n \times (n-1) \times (n-2) \times ... \times (n-m+1)$种；
 
-我们将从n个不同的元素中，取出m个元素$(m<n)$，<font color="#FDBC40">按顺序</font>排成一列，叫作<font color="#FDBC40">选排列</font>，用$A_n^m$表示
+我们将从n个不同的元素中，取出m个元素$(m<n)$，<font color="#5073D6">按顺序</font>排成一列，叫作<font color="#5073D6">选排列</font>，用$A_n^m$表示
 
-<font color="#FDBC40" size="5">$A_n^m = n \times (n-1) \times (n-2) \times ... \times (n-m+1)$​</font>
+<font color="#5073D6" size="5">$A_n^m = n \times (n-1) \times (n-2) \times ... \times (n-m+1)$​</font>
 
-<font color="#FDBC40" size="5">$A_n^m = \frac{n \times (n-1) \times (n-2) \times ... \times(n-m+1) \times (n-m) \times... \times 2 \times 1}{(n-m) \times... \times 2 \times 1} = \frac{n!}{(n-m)!}$</font>
+<font color="#5073D6" size="5">$A_n^m = \frac{n \times (n-1) \times (n-2) \times ... \times(n-m+1) \times (n-m) \times... \times 2 \times 1}{(n-m) \times... \times 2 \times 1} = \frac{n!}{(n-m)!}$</font>
 
 如从4个不同元素中选出两个进行排列表示为$A_4^2$，有$4\times 3=12$种方法
 
@@ -1349,7 +1349,7 @@ $2160化为标准分解式为2^4\times 3^3 \times 5^1$
 
 <font size="5">从4个不同元素中选取两个元素，按顺序进行排列的另一个思考角度</font>
 
-<font color="#FDBC40">两步算法</font>
+<font color="#5073D6">两步算法</font>
 
 1. 从4个不同元素中选取两个元素
 2. 将选取出的两个元素进行全排列
@@ -1370,17 +1370,17 @@ $2160化为标准分解式为2^4\times 3^3 \times 5^1$
 1. 假设从n个不同元素中选取m个元素，有N种选法
 2. 将选取出的m个元素进行全排列，有$A_m^m$​种方法
 
-根据乘法原理，从n个不同元素中选取m$(m \le n)$个元素，<font color="#FDBC40">按顺序</font>排成一列有$A_m^m \times N$种
+根据乘法原理，从n个不同元素中选取m$(m \le n)$个元素，<font color="#5073D6">按顺序</font>排成一列有$A_m^m \times N$种
 
-根据<font color="#FDBC40">选排列</font>，我们知道从n个不同元素中选取m$(m \le n)$个元素，<font color="#FDBC40">按顺序</font>排成一列可以表示为$A_n^m$
+根据<font color="#5073D6">选排列</font>，我们知道从n个不同元素中选取m$(m \le n)$个元素，<font color="#5073D6">按顺序</font>排成一列可以表示为$A_n^m$
 
 所以，$A_n^m = A_m^m \times N$，
 
 即：$N= \frac{A_n^m}{A_m^m} = \frac{n \times (n-1) \times (n-2) \times ... \times (m-n+1)}{m \times (m-1)\times...\times 2 \times1}$
 
-我们称从n个不同元素中<font color="#FDBC40">无序的</font>选取m$(m \le n)$个元素为一组，叫做从n个元素中取出m个元素的一个组合，这样的组合个数称为<font color="#FDBC40">组合数</font>，用$C_n^m$表示
+我们称从n个不同元素中<font color="#5073D6">无序的</font>选取m$(m \le n)$个元素为一组，叫做从n个元素中取出m个元素的一个组合，这样的组合个数称为<font color="#5073D6">组合数</font>，用$C_n^m$表示
 
-<font color="#FDBC40" size="5">$C_n^m=\frac{A_n^m}{A_m^m} = \frac{n \times (n-1) \times (n-2) \times ... \times (n-m+1)}{m \times (m-1)\times...\times 2 \times1}$</font>
+<font color="#5073D6" size="5">$C_n^m=\frac{A_n^m}{A_m^m} = \frac{n \times (n-1) \times (n-2) \times ... \times (n-m+1)}{m \times (m-1)\times...\times 2 \times1}$</font>
 
 如从4个不同元素中选取两个元素的组合数可以表示为$C_4^2=\frac{A_4^2}{A_2^2}=\frac{4\times 3}{2\times 1}=6$
 
@@ -1390,7 +1390,7 @@ $2160化为标准分解式为2^4\times 3^3 \times 5^1$
 
 #### 性质
 
-<font color="#FDBC40" size="5">$C_n^{n-m} = C_n^m$​</font>
+<font color="#5073D6" size="5">$C_n^{n-m} = C_n^m$​</font>
 
 $C_n^{n-m} = \frac{A_n^{n-m}}{A_{n-m}^{n-m}} = \frac{n!}{m! \times (n-m)!}$​
 
@@ -1449,35 +1449,35 @@ $C_{200}^{197} = $​
 
 ### 捆绑法
 
-如果指定某些元素在排列中<font color="#FDBC40">相邻</font>，那么可以采用“捆绑法”，将这些元素<font color="#FDBC40">当作一个整体考虑。</font>
+如果指定某些元素在排列中<font color="#5073D6">相邻</font>，那么可以采用“捆绑法”，将这些元素<font color="#5073D6">当作一个整体考虑。</font>
 
-例：5个同学小张、小明、小红、小亮、小李排成一行，但是<font color="#FDBC40">要求小明和小亮必须相邻</font>，求方案总数？
+例：5个同学小张、小明、小红、小亮、小李排成一行，但是<font color="#5073D6">要求小明和小亮必须相邻</font>，求方案总数？
 
 <img src="res/Screenshot 2024-05-18 at 10.12.15.png" alt="Screenshot 2024-05-18 at 10.12.15" style="zoom:30%;" align="left"/>
 
-1. 我们可以把小明和小亮<font color="#FDBC40">捆绑</font>到一起，当成1个人来看待，然后进行全排列
+1. 我们可以把小明和小亮<font color="#5073D6">捆绑</font>到一起，当成1个人来看待，然后进行全排列
 
    <img src="res/Screenshot 2024-05-18 at 10.17.05.png" alt="Screenshot 2024-05-18 at 10.17.05" style="zoom:30%;" align="left"/>
 
-   此时有<font color="#FDBC40">$A_4^4$</font>种方案
+   此时有<font color="#5073D6">$A_4^4$</font>种方案
 
 2. 对于每种方案里的小明和小亮，他们的排列顺序也可以是不同的，所以要对小明和小亮进行全排列
 
    <img src="res/Screenshot 2024-05-18 at 10.18.33.png" alt="Screenshot 2024-05-18 at 10.18.33" style="zoom:30%;" align="left"/>
 
-   有<font color="#FDBC40">$A_2^2$</font>种方案
+   有<font color="#5073D6">$A_2^2$</font>种方案
 
-3. 根据题意，完成排列需要1、2两个步骤，所以由<font color="#FDBC40">乘法原理</font>，我们知道方案总数是
+3. 根据题意，完成排列需要1、2两个步骤，所以由<font color="#5073D6">乘法原理</font>，我们知道方案总数是
 
-   <font color="#FDBC40">$A_4^4 \times A_2^2$ = 48</font>种
+   <font color="#5073D6">$A_4^4 \times A_2^2$ = 48</font>种
 
 
 
 ### 插空法
 
-如果指定某些元素在排列中<font color="#FDBC40">不能相邻</font>，那么可以采用“插空法”，把这些元素插入到其他元素中。
+如果指定某些元素在排列中<font color="#5073D6">不能相邻</font>，那么可以采用“插空法”，把这些元素插入到其他元素中。
 
-例：5个同学小张、小明、小红、小亮、小李排成一行，但是<font color="#FDBC40">要求小明和小亮不能相邻</font>，求方案总数？
+例：5个同学小张、小明、小红、小亮、小李排成一行，但是<font color="#5073D6">要求小明和小亮不能相邻</font>，求方案总数？
 
 <img src="res/Screenshot 2024-05-18 at 10.12.15.png" alt="Screenshot 2024-05-18 at 10.12.15" style="zoom:30%;" align="left"/>
 
@@ -1485,15 +1485,15 @@ $C_{200}^{197} = $​
 
    <img src="res/Screenshot 2024-05-18 at 10.30.13.png" alt="Screenshot 2024-05-18 at 10.30.13" style="zoom:30%;" align="left"/>
 
-   方案数为<font color="#FDBC40">$A_3^3$</font>
+   方案数为<font color="#5073D6">$A_3^3$</font>
 
 2. 此时小张、小李、小红三个人两边共有4个空隙，小明和小亮从中选择2个不同的空隙
 
-   方案数为<font color="#FDBC40">$A_4^2$</font>
+   方案数为<font color="#5073D6">$A_4^2$</font>
 
 3. 再利用乘法原理
 
-   总方案数为<font color="#FDBC40">$A_3^3 \times A_4^2 = 72$</font>
+   总方案数为<font color="#5073D6">$A_3^3 \times A_4^2 = 72$</font>
 
 
 
@@ -1517,7 +1517,7 @@ $C_{200}^{197} = $​
 
    <img src="res/Screenshot 2024-05-18 at 11.21.27.png" alt="Screenshot 2024-05-18 at 11.21.27" style="zoom:50%;" align="left"/>
 
-   所以把10个相同的苹果放入3个不同的盘子，盘子可以为空，这个问题可以转换为<font color="#FDBC40">在12个相同的苹果中，任意选择两个苹果当成挡板</font>，此时有<font color="#FDBC40">$C_{12}^2$</font>种方案
+   所以把10个相同的苹果放入3个不同的盘子，盘子可以为空，这个问题可以转换为<font color="#5073D6">在12个相同的苹果中，任意选择两个苹果当成挡板</font>，此时有<font color="#5073D6">$C_{12}^2$</font>种方案
 
 
 
@@ -1579,9 +1579,9 @@ $C_{200}^{197} = $​
 
 <img src="res/640.webp" alt="640" style="zoom:33%;" align="left"/>
 
-有10只鸽子，要放入9个笼子，那么无论如何，至少有一个笼子里要装进最少2只鸽子。这一现象就是<font color="#FDBC40">鸽巢原理</font>，也叫<font color="#FDBC40">抽屉原理</font>。
+有10只鸽子，要放入9个笼子，那么无论如何，至少有一个笼子里要装进最少2只鸽子。这一现象就是<font color="#5073D6">鸽巢原理</font>，也叫<font color="#5073D6">抽屉原理</font>。
 
-它的一般含义为，如果每个鸽巢代表1个集合，每只鸽子就可以代表1个元素，<font color="#FDBC40">假如将$n+1$个元素放到$n$个集合中，其中必定有1个集合里至少有2个元素</font>。
+它的一般含义为，如果每个鸽巢代表1个集合，每只鸽子就可以代表1个元素，<font color="#5073D6">假如将$n+1$个元素放到$n$个集合中，其中必定有1个集合里至少有2个元素</font>。
 
 
 
@@ -1597,11 +1597,11 @@ $C_{200}^{197} = $​
 
 1. 构造鸽巢的方法
 
-   <font color="#FDBC40">运用鸽巢原理的核心是分析清楚问题中，哪个是鸽子，哪个是鸽巢。</font>例如，属相是有12个，那么任意37个人中，至少有一个属相是不少于4个人。<font color="#FDBC40">一般在问题中，较多的一方是鸽子，较少的一方就是鸽巢</font>，比如上述问题中的属相12个，就是对应鸽巢，37个人就是对应鸽子，因为37相对12多。
+   <font color="#5073D6">运用鸽巢原理的核心是分析清楚问题中，哪个是鸽子，哪个是鸽巢。</font>例如，属相是有12个，那么任意37个人中，至少有一个属相是不少于4个人。<font color="#5073D6">一般在问题中，较多的一方是鸽子，较少的一方就是鸽巢</font>，比如上述问题中的属相12个，就是对应鸽巢，37个人就是对应鸽子，因为37相对12多。
 
 2. 最差原则
 
-   <font color="#FDBC40">最差原则，即考虑所有可能情况中，最不利于某件事情发生的情况</font>，如：
+   <font color="#5073D6">最差原则，即考虑所有可能情况中，最不利于某件事情发生的情况</font>，如：
 
    有红、黄、蓝三种颜色的袜子各10只，混放在一个暗箱中。请问：在看不见颜色的情况下，至少要取出多少只袜子才能保证取出两双颜色不同的袜子？
 
@@ -1671,25 +1671,25 @@ $C_{200}^{197} = $​
 
 ### 数轴
 
-<font color="#FDBC40">如何在一维直线上描述一个点的位置？</font>
+<font color="#5073D6">如何在一维直线上描述一个点的位置？</font>
 
 <img src="res/Screen Shot 2024-05-23 at 3.16.56 PM.png" alt="Screen Shot 2024-05-23 at 3.16.56 PM" style="zoom:50%;" align="left" />
 
 #### 三要素
 
-1. <font color="#FDBC40">原点</font>
+1. <font color="#5073D6">原点</font>
 
-2. <font color="#FDBC40">正方向</font>
+2. <font color="#5073D6">正方向</font>
 
-3. <font color="#FDBC40">单位长度</font>
+3. <font color="#5073D6">单位长度</font>
 
 #### 特点
 
-1. <font color="#FDBC40">原点左边的数全都小于0，是负数</font>
-2. <font color="#FDBC40">原点右边的数全都大于0，是正数</font>
+1. <font color="#5073D6">原点左边的数全都小于0，是负数</font>
+2. <font color="#5073D6">原点右边的数全都大于0，是正数</font>
 
-3. <font color="#FDBC40">所有的数沿着正方形上增加</font>
-4. <font color="#FDBC40">数轴上的每一个点都与实数一一对应</font>
+3. <font color="#5073D6">所有的数沿着正方形上增加</font>
+4. <font color="#5073D6">数轴上的每一个点都与实数一一对应</font>
 
 **我们可以借助数轴这个数学工具来描述一维直线上点的位置，如：**
 
@@ -1703,7 +1703,7 @@ $C_{200}^{197} = $​
 
 ### 平面直角坐标系
 
-<font color="#FDBC40">如何在二维平面上描述一个点的位置？</font>
+<font color="#5073D6">如何在二维平面上描述一个点的位置？</font>
 
 <img src="res/be05c76599c4beee65579720467e9fca.webp" alt="be05c76599c4beee65579720467e9fca" align="left"/>
 
@@ -1713,15 +1713,15 @@ $C_{200}^{197} = $​
 2. 横轴称$x轴$，正方向由左向右
 3. 纵轴称$y轴$，正方向由下向上
 4. $x轴与y轴有公共的原点O$​​
-5. $x轴与y轴$将平面分成了四个区域，沿逆时针方向分别为<font color="#FDBC40">**第一象限**，**第二象限**，**第三象限**，**第四象限**</font>
+5. $x轴与y轴$将平面分成了四个区域，沿逆时针方向分别为<font color="#5073D6">**第一象限**，**第二象限**，**第三象限**，**第四象限**</font>
 
 **我们可以借助平面直角坐标系这个数学工具来描述二维平面上点的位置**
 
-在平面直角坐标系中，我们可以用<font color="#FDBC40">**有序数对(x,y)**</font>来描述二维平面上点的位置，其中<font color="#FDBC40">$x$表示点在$x$轴上的投影，$y$表示点在$y$轴上的投影</font>，如：
+在平面直角坐标系中，我们可以用<font color="#5073D6">**有序数对(x,y)**</font>来描述二维平面上点的位置，其中<font color="#5073D6">$x$表示点在$x$轴上的投影，$y$表示点在$y$轴上的投影</font>，如：
 
 <img src="res/Screen Shot 2024-05-23 at 4.28.38 PM.png" alt="Screen Shot 2024-05-23 at 4.28.38 PM" style="zoom:50%;" align="left"/>
 
-**点A：**用**有序数对(10,15)**表示，<font color="#FDBC40">其中10表示点A在$x轴$上的映射值、15表示点A在$y轴$上的映射值</font>
+**点A：**用**有序数对(10,15)**表示，<font color="#5073D6">其中10表示点A在$x轴$上的映射值、15表示点A在$y轴$上的映射值</font>
 
 <font color="#FC605C">这样的`有序数对` 称为平面直角坐标系的`坐标`</font>，如：点B的坐标是(-10,5)
 
@@ -1729,7 +1729,7 @@ $C_{200}^{197} = $​
 
 ### 函数
 
-<font color="#FDBC40">观察一下X与Y的映射关系?</font>
+<font color="#5073D6">观察一下X与Y的映射关系?</font>
 
 * 映射关系1
 
@@ -1741,15 +1741,15 @@ $C_{200}^{197} = $​
 
 #### 定义
 
-在一个变化过程中，假设有两个变量x、y，<font color="#FDBC40">如果对于任意一个x都有唯一确定的一个y和它对应</font>，那么就称x是自变量，y是x的函数。x的取值范围叫做这个函数的定义域，相应y的取值范围叫做函数的值域。
+在一个变化过程中，假设有两个变量x、y，<font color="#5073D6">如果对于任意一个x都有唯一确定的一个y和它对应</font>，那么就称x是自变量，y是x的函数。x的取值范围叫做这个函数的定义域，相应y的取值范围叫做函数的值域。
 
-<font color="#FDBC40">其中$x$称自变量（即变量$x$主动变化），$y$称因变量（即变量$y$因$x$的变化而变化）</font>
+<font color="#5073D6">其中$x$称自变量（即变量$x$主动变化），$y$称因变量（即变量$y$因$x$的变化而变化）</font>
 
 #### 三要素
 
-1. <font color="#FDBC40">定义域</font>，即变量$x$能够取到的所有值所组成的集合
-2. <font color="#FDBC40">值域</font>，即变量$y$能够取到的所有值所组成的集合
-3. <font color="#FDBC40">映射关系</font>，即$x→y$的对应关系
+1. <font color="#5073D6">定义域</font>，即变量$x$能够取到的所有值所组成的集合
+2. <font color="#5073D6">值域</font>，即变量$y$能够取到的所有值所组成的集合
+3. <font color="#5073D6">映射关系</font>，即$x→y$的对应关系
 
 <font color="#FC605C">$x与y$的映射关系只能是一对一或多对一，不能是一对多</font>
 
@@ -1757,32 +1757,32 @@ $C_{200}^{197} = $​
 
 #### 函数图像
 
-我们知道<font color="#FDBC40">平面直角坐标系可以描述二维平面上的任意一点，而平面直角坐标系上的任意一点，都是用一个有序数对来表示的</font>；对于任意一个函数，它的定义域、值域在它的映射关系的作用下就组成了一个<font color="#FDBC40">有序数对的集合</font>，那么将这些<font color="#FDBC40">有序数对的集合</font>画在平面直角坐标系上就形成了<font color="#FDBC40">函数图像</font>。
+我们知道<font color="#5073D6">平面直角坐标系可以描述二维平面上的任意一点，而平面直角坐标系上的任意一点，都是用一个有序数对来表示的</font>；对于任意一个函数，它的定义域、值域在它的映射关系的作用下就组成了一个<font color="#5073D6">有序数对的集合</font>，那么将这些<font color="#5073D6">有序数对的集合</font>画在平面直角坐标系上就形成了<font color="#5073D6">函数图像</font>。
 
 如对于函数$y=x, x \in R$，其中符号$\in$表示属于，$R$表示全体实数的集合
 
-所以对于函数$y=x, x \in R$，它的<font color="#FDBC40">定义域、值域及映射关系</font>分别是：
+所以对于函数$y=x, x \in R$，它的<font color="#5073D6">定义域、值域及映射关系</font>分别是：
 
-<font color="#FDBC40">定义域：$x \in R$，即自变量$x$​属于全体实数</font>
+<font color="#5073D6">定义域：$x \in R$，即自变量$x$​属于全体实数</font>
 
-<font color="#FDBC40">值域：$y \in R$，即因变量y属于全体实数</font>
+<font color="#5073D6">值域：$y \in R$，即因变量y属于全体实数</font>
 
-<font color="#FDBC40">映射关系：$y=x$</font>
+<font color="#5073D6">映射关系：$y=x$</font>
 
-* 以下列举了函数$y=x，x \in R$的10个<font color="#FDBC40">有序数对</font>
+* 以下列举了函数$y=x，x \in R$的10个<font color="#5073D6">有序数对</font>
 
 | x     | -4       | -3      | -2      | -1      | 0     | 1     | 2     | 3     | 4     | 5     |
 | ----- | -------- | ------- | ------- | ------- | ----- | ----- | ----- | ----- | ----- | ----- |
 | y     | -4       | -3      | -2      | -1      | 0     | 1     | 2     | 3     | 4     | 5     |
 | (x,y) | (-4, -4) | (-3,-3) | (-2,-2) | (-1,-1) | (0,0) | (1,1) | (2,2) | (3,3) | (4,4) | (5,5) |
 
-现将它们画在<font color="#FDBC40">平面直角坐标系</font>上：
+现将它们画在<font color="#5073D6">平面直角坐标系</font>上：
 
 <img src="res/Screen Shot 2024-05-24 at 3.58.45 PM.png" alt="Screen Shot 2024-05-24 at 3.58.45 PM" style="zoom:25%;" align="left"/>
 
 
 
-* 如果我们列举函数$y=x，x \in R$的20个<font color="#FDBC40">有序数对</font>
+* 如果我们列举函数$y=x，x \in R$的20个<font color="#5073D6">有序数对</font>
 
 | x     | -4      | -3.5        | -3      | -2.5        | -2      | -1.5        | -1      | -0.5        | 0     | 0.5       | 1     | 1.5       | 2     | 2.5       | 3     | 3.5       | 4     | 4.5       | 5     | 5.5       |
 | ----- | ------- | ----------- | ------- | ----------- | ------- | ----------- | ------- | ----------- | ----- | --------- | ----- | --------- | ----- | --------- | ----- | --------- | ----- | --------- | ----- | --------- |
@@ -1793,11 +1793,11 @@ $C_{200}^{197} = $​
 
 
 
-* 如果我们列举函数$y=x，x \in R$​的<font color="#FDBC40">全部有序数对</font>
+* 如果我们列举函数$y=x，x \in R$​的<font color="#5073D6">全部有序数对</font>
 
 <img src="res/Screen Shot 2024-05-24 at 4.14.35 PM.png" alt="Screen Shot 2024-05-24 at 4.14.35 PM" style="zoom:25%;" align="left"/>
 
-<font color="#FDBC40">这就是$y=x，x \in R$的函数图像</font>
+<font color="#5073D6">这就是$y=x，x \in R$的函数图像</font>
 
 
 
@@ -1805,9 +1805,9 @@ $C_{200}^{197} = $​
 
 ## 一次函数
 
-一次函数的<font color="#FDBC40">函数表达式为$y=kx+b$，其中$k,b$是常数，并且$k \neq 0$</font>，$x$是自变量$(x \in R，R为全体实数)$，$y$是因变量。<font color="#FDBC40">当$b=0$时</font>，$y=kx$，此时<font color="#FDBC40">$y$是$x$的正比例函数</font>
+一次函数的<font color="#5073D6">函数表达式为$y=kx+b$，其中$k,b$是常数，并且$k \neq 0$</font>，$x$是自变量$(x \in R，R为全体实数)$，$y$是因变量。<font color="#5073D6">当$b=0$时</font>，$y=kx$，此时<font color="#5073D6">$y$是$x$的正比例函数</font>
 
-$y=kx+b$是一次函数，是因为<font color="#FDBC40">自变量$x$的指数部分是1</font>
+$y=kx+b$是一次函数，是因为<font color="#5073D6">自变量$x$的指数部分是1</font>
 
 ---
 
@@ -1823,13 +1823,13 @@ $下列函数中，y是x的一次函数的有()$
 
 ### 图像
 
-一次函数$y=kx+b$<font color="#FDBC40">在平面直角坐标上的图像是一条直线</font>
+一次函数$y=kx+b$<font color="#5073D6">在平面直角坐标上的图像是一条直线</font>
 
 ### 性质
 
 * 斜率
 
-  一次函数$y=kx+b$中，常数$k$表示的是<font color="#FDBC40">一次函数图像与x轴正方向的夹角的正切值</font>，反映的是<font color="#FDBC40">在平面直角坐标系中一条直线与x轴的倾斜程度的量</font>
+  一次函数$y=kx+b$中，常数$k$表示的是<font color="#5073D6">一次函数图像与x轴正方向的夹角的正切值</font>，反映的是<font color="#5073D6">在平面直角坐标系中一条直线与x轴的倾斜程度的量</font>
 
   `在以下6个一次函数中，我们看k的值对函数图像的影响是什么？`
 
@@ -1843,9 +1843,9 @@ $下列函数中，y是x的一次函数的有()$
 
   通过函数图像我们可以发现：
 
-  1. <font color="#FDBC40">一次函数图像与x轴的夹角随着k的增大而增大</font>
-  2. <font color="#FDBC40">当k>0时，一次函数图像一定穿过一、三象限，因变量$y$随着自变量$x$增大而增大</font>
-  3. <font color="#FDBC40">当k<0时，一次函数图像一定穿过二、四象限，因变量$y$随着自变量$x$增大而减小</font>
+  1. <font color="#5073D6">一次函数图像与x轴的夹角随着k的增大而增大</font>
+  2. <font color="#5073D6">当k>0时，一次函数图像一定穿过一、三象限，因变量$y$随着自变量$x$增大而增大</font>
+  3. <font color="#5073D6">当k<0时，一次函数图像一定穿过二、四象限，因变量$y$随着自变量$x$增大而减小</font>
 
 
 
@@ -1861,23 +1861,23 @@ $下列函数中，y是x的一次函数的有()$
 
 ​	一次函数$y=kx+b$与$y$轴的交点即为$(0,b)$，如：
 
-​	函数y=x+<font color="#FDBC40">6</font>与$y$轴的交点为(0,<font color="#FDBC40">6</font>)
+​	函数y=x+<font color="#5073D6">6</font>与$y$轴的交点为(0,<font color="#5073D6">6</font>)
 
 
 
 * 平移
 
-  函数图像在平面直角坐标上的移动称为函数<font color="#FDBC40">图像的平移</font>，平移分为<font color="#FDBC40">上下平移</font>和<font color="#FDBC40">左右平移</font>
+  函数图像在平面直角坐标上的移动称为函数<font color="#5073D6">图像的平移</font>，平移分为<font color="#5073D6">上下平移</font>和<font color="#5073D6">左右平移</font>
 
   ![Screenshot 2024-05-25 at 09.27.03](res/Screenshot 2024-05-25 at 09.27.03.png)
 
   * 上下平移
 
-    <font color="#FDBC40">口诀：上加下减</font>
+    <font color="#5073D6">口诀：上加下减</font>
 
-    函数表达式中<font color="#FDBC40">对因变量$y$加上一个正整数$n$</font>，则函数图像就会<font color="#FDBC40">向上平移$n$个单位长度</font>
+    函数表达式中<font color="#5073D6">对因变量$y$加上一个正整数$n$</font>，则函数图像就会<font color="#5073D6">向上平移$n$个单位长度</font>
 
-    函数表达式中<font color="#FDBC40">对因变量$y$减去一个正整数$n$</font>，则函数图像就会<font color="#FDBC40">向下平移$n$​个单位长度</font>
+    函数表达式中<font color="#5073D6">对因变量$y$减去一个正整数$n$</font>，则函数图像就会<font color="#5073D6">向下平移$n$​个单位长度</font>
 
     ```
     如将函数y=2x向上平移6个单位长度后，则函数表达式变为y=2x+6
@@ -1886,11 +1886,11 @@ $下列函数中，y是x的一次函数的有()$
 
   * 左右平移
 
-    <font color="#FDBC40">口诀：左加右减</font>
+    <font color="#5073D6">口诀：左加右减</font>
 
-    函数表达式中<font color="#FDBC40">对自变量$x$加上一个正整数$n$</font>，则函数图像就会<font color="#FDBC40">向左平移$n$个单位长度</font>
+    函数表达式中<font color="#5073D6">对自变量$x$加上一个正整数$n$</font>，则函数图像就会<font color="#5073D6">向左平移$n$个单位长度</font>
 
-    函数表达式中<font color="#FDBC40">对自变量$x$减去一个正整数$n$</font>，则函数图像就会<font color="#FDBC40">向右平移$n$​个单位长度</font>
+    函数表达式中<font color="#5073D6">对自变量$x$减去一个正整数$n$</font>，则函数图像就会<font color="#5073D6">向右平移$n$​个单位长度</font>
 
     ```
     如将函数y=2x向左平移3个单位长度后，则函数表达式变为y=2(x+3)=2x+6
@@ -1901,15 +1901,15 @@ $下列函数中，y是x的一次函数的有()$
 
 下列函数经过怎样的变换可以得到右边的函数？
 
-1. $y=x-4$          →	<font color="#FDBC40">$y=x+5$</font>
-2. $y=2x-4$        →	<font color="#FDBC40">$y=2x+8$</font>
-3. $y=2x-4$        →	<font color="#FDBC40">$y=2x$</font>
+1. $y=x-4$          →	<font color="#5073D6">$y=x+5$</font>
+2. $y=2x-4$        →	<font color="#5073D6">$y=2x+8$</font>
+3. $y=2x-4$        →	<font color="#5073D6">$y=2x$</font>
 
 ---
 
 ### 求函数表达式
 
-我们知道<font color="#FDBC40">在平面上任意两个点就能唯一确定一条直线</font>，那么如果在平面直角坐标系中<font color="#FDBC40">任意给定了两个点的坐标，那么就能唯一确定一条经过这两个点的直线，而这条直线的函数表达式也就能够确定下来</font>
+我们知道<font color="#5073D6">在平面上任意两个点就能唯一确定一条直线</font>，那么如果在平面直角坐标系中<font color="#5073D6">任意给定了两个点的坐标，那么就能唯一确定一条经过这两个点的直线，而这条直线的函数表达式也就能够确定下来</font>
 
 如果一条直线经过$A(0,9)$和$B(-3,0)$两点，那么该一次函数的表达式是什么？
 
@@ -1921,11 +1921,11 @@ $下列函数中，y是x的一次函数的有()$
 
 2. 将点A代入表达式
 
-   <font color="#FDBC40">9</font> = k $\times$ <font color="#FDBC40">0</font> + b，得到b=9
+   <font color="#5073D6">9</font> = k $\times$ <font color="#5073D6">0</font> + b，得到b=9
 
 3. 将点B代入表达式
 
-   <font color="#FDBC40">0</font> = k $\times$ <font color="#FDBC40">-3</font> + b，得到k=3
+   <font color="#5073D6">0</font> = k $\times$ <font color="#5073D6">-3</font> + b，得到k=3
 
 4. 该函数表达式为
 
@@ -1940,9 +1940,9 @@ $下列函数中，y是x的一次函数的有()$
 
 <img src="res/Screenshot 2024-05-25 at 10.47.42.png" alt="Screenshot 2024-05-25 at 10.47.42" style="zoom:25%;" align="left"/>
 
-二次函数的<font color="#FDBC40">函数表达式为$y=ax^2+bx+c$，其中$a \neq0，x \in R$​</font>，二次函数的函数图像类似于一个<font color="#FDBC40">抛物线</font>
+二次函数的<font color="#5073D6">函数表达式为$y=ax^2+bx+c$，其中$a \neq0，x \in R$​</font>，二次函数的函数图像类似于一个<font color="#5073D6">抛物线</font>
 
-对比一次函数$y=kx+b，k \neq0$，二次函数<font color="#FDBC40">自变量$x$的最高次幂是2</font>，故称<font color="#FDBC40">二次函数</font>
+对比一次函数$y=kx+b，k \neq0$，二次函数<font color="#5073D6">自变量$x$的最高次幂是2</font>，故称<font color="#5073D6">二次函数</font>
 
 
 
@@ -1970,15 +1970,15 @@ $下列函数中，y是x的一次函数的有()$
 
   二次函数$y=ax^2+bx+c, a \neq 0$，可以写成$y=a(x-h)^2+m，a \neq 0$的形式
 
-  将二次函数$y=ax^2+bx+c, a \neq 0$改写称$y=a(x-h)^2+m，a \neq 0$，需要用到<font color="#FDBC40">配方法</font>
+  将二次函数$y=ax^2+bx+c, a \neq 0$改写称$y=a(x-h)^2+m，a \neq 0$，需要用到<font color="#5073D6">配方法</font>
 
   * 配方法
 
-    它是把<font color="#FDBC40">二次多项式</font>化为一个<font color="#FDBC40">一次多项式的平方与一个常数的和</font>的方法
+    它是把<font color="#5073D6">二次多项式</font>化为一个<font color="#5073D6">一次多项式的平方与一个常数的和</font>的方法
 
-    $ax^2+bx+c, a \neq 0$即为<font color="#FDBC40">二次多项式</font>
+    $ax^2+bx+c, a \neq 0$即为<font color="#5073D6">二次多项式</font>
 
-    $a(x-h)^2+m，a \neq 0$即为<font color="#FDBC40">一次多项式的平方与一个常数的和</font>
+    $a(x-h)^2+m，a \neq 0$即为<font color="#5073D6">一次多项式的平方与一个常数的和</font>
 
     我们知道$(a+b)^2=a^2+2ab+b^2、(a-b)^2=a^2-2ab+b^2$
 
@@ -1990,13 +1990,13 @@ $下列函数中，y是x的一次函数的有()$
 
     $=a(x+\frac{b}{2a})^2+c-(\frac{b}{2a})^2$
 
-    <font color="#FDBC40">故二次函数$y=ax^2+bx+c, a \neq 0$的对称轴是$x=-\frac{b}{2a}，h=-\frac{b}{2a},m=c-(\frac{b}{2a})^2$</font>
+    <font color="#5073D6">故二次函数$y=ax^2+bx+c, a \neq 0$的对称轴是$x=-\frac{b}{2a}，h=-\frac{b}{2a},m=c-(\frac{b}{2a})^2$</font>
 
   <img src="res/Screenshot 2024-05-25 at 11.26.07.png" alt="Screenshot 2024-05-25 at 11.26.07" style="zoom:50%;" />
 
 ​	观察二次函数$y=2(x-6)^2$，可以看出该二次函数是关于直线$x=6$对称的
 
-​	<font color="#FDBC40">对于任意二次函数$y=a(x-h)^2+m，a \neq 0$，该二次函数关于$x=h$对称</font>
+​	<font color="#5073D6">对于任意二次函数$y=a(x-h)^2+m，a \neq 0$，该二次函数关于$x=h$对称</font>
 
 
 
@@ -2008,9 +2008,9 @@ $下列函数中，y是x的一次函数的有()$
 
 ​	而对于二次函数$y=2(x-6)^2$，当自变量$x \in(-\infin, 6]$时，因变量$y$随$x$的增大而减小，我们称为函数单调递减；当自变量$x \in[6, +\infin)$时，因变量$y$随$x$的增大而增大，我们称为函数单调递增
 
-​	<font color="#FDBC40">我们称因变量$y$随着自变量$x$在某一区间上值的单调变化为函数的单调性</font>
+​	<font color="#5073D6">我们称因变量$y$随着自变量$x$在某一区间上值的单调变化为函数的单调性</font>
 
-​	<font color="#FDBC40">二次函数的单调性体现在其对称轴$x=h$的两侧，并且受到$a$的影响；</font>
+​	<font color="#5073D6">二次函数的单调性体现在其对称轴$x=h$的两侧，并且受到$a$的影响；</font>
 
 ​	如果$a>0$，二次函数在其对称轴左边，单调减小；在其对称轴的右边，单调增加
 
@@ -2020,13 +2020,13 @@ $下列函数中，y是x的一次函数的有()$
 
 * 平移
 
-  与一次函数一样，也可以通过<font color="#FDBC40">上加下减、左加右减</font>的口诀来记忆
+  与一次函数一样，也可以通过<font color="#5073D6">上加下减、左加右减</font>的口诀来记忆
 
   * 上下平移
 
-    函数表达式中<font color="#FDBC40">对因变量$y$加上一个正整数$n$</font>，则函数图像就会<font color="#FDBC40">向上平移$n$个单位长度</font>
+    函数表达式中<font color="#5073D6">对因变量$y$加上一个正整数$n$</font>，则函数图像就会<font color="#5073D6">向上平移$n$个单位长度</font>
 
-    函数表达式中<font color="#FDBC40">对因变量$y$减去一个正整数$n$</font>，则函数图像就会<font color="#FDBC40">向下平移$n$​个单位长度</font>
+    函数表达式中<font color="#5073D6">对因变量$y$减去一个正整数$n$</font>，则函数图像就会<font color="#5073D6">向下平移$n$​个单位长度</font>
 
     <img src="res/Screen Shot 2024-05-26 at 14.40.27.png" alt="Screen Shot 2024-05-26 at 14.40.27" style="zoom:25%;" align="left"/>
 
@@ -2039,9 +2039,9 @@ $下列函数中，y是x的一次函数的有()$
 
   * 左右平移
 
-    函数表达式中<font color="#FDBC40">对自变量$x$加上一个正整数$n$</font>，则函数图像就会<font color="#FDBC40">向左平移$n$个单位长度</font>
+    函数表达式中<font color="#5073D6">对自变量$x$加上一个正整数$n$</font>，则函数图像就会<font color="#5073D6">向左平移$n$个单位长度</font>
 
-    函数表达式中<font color="#FDBC40">对自变量$x$减去一个正整数$n$</font>，则函数图像就会<font color="#FDBC40">向右平移$n$​个单位长度</font>
+    函数表达式中<font color="#5073D6">对自变量$x$减去一个正整数$n$</font>，则函数图像就会<font color="#5073D6">向右平移$n$​个单位长度</font>
 
     <img src="res/Screen Shot 2024-05-26 at 14.48.29.png" alt="Screen Shot 2024-05-26 at 14.48.29" style="zoom:25%;" align="left"/>
 
@@ -2188,7 +2188,7 @@ $下列函数中，y是x的指数函数的有()$
 
 ### 定义
 
-<font color="#FDBC40">$若a^m=n$，$a>0$，则$m$叫做以$a$为底$n$的对数。</font>
+<font color="#5073D6">$若a^m=n$，$a>0$，则$m$叫做以$a$为底$n$的对数。</font>
 
 $a^m=n，a>0$，则$m=log_an$，如$2^3=8，则3=log_28$
 
@@ -2301,11 +2301,11 @@ $y=log_{\frac12}x与y=(\frac{1}{2})^x$
 
 ## 数列基础
 
-数列是一<font color="#FDBC40">正整数集（或它的有限子集）</font>为定义域的一列有序的数，数列中的每一项都叫做这个数列的<font color="#FDBC40">项</font>。排在第一位的数称为这个数列的第一项（也叫首项），排在第二位的数称为这个数列的第二项，以此类推，排在第n位的数为这个数列的第n项，通常<font color="#FDBC40">用$a_n$表示</font>。
+数列是一<font color="#5073D6">正整数集（或它的有限子集）</font>为定义域的一列有序的数，数列中的每一项都叫做这个数列的<font color="#5073D6">项</font>。排在第一位的数称为这个数列的第一项（也叫首项），排在第二位的数称为这个数列的第二项，以此类推，排在第n位的数为这个数列的第n项，通常<font color="#5073D6">用$a_n$表示</font>。
 
 数列的一般形式可以写成：
 
-<font color="#FDBC40">$a_1，a_2，a_3，...,a_n$</font>
+<font color="#5073D6">$a_1，a_2，a_3，...,a_n$</font>
 
 简记为{$a_n$}
 
@@ -2313,15 +2313,15 @@ $y=log_{\frac12}x与y=(\frac{1}{2})^x$
 
 数列：
 
-$1,2,3,4,5,$<font color="#FDBC40">?</font>$,7,8,9$
+$1,2,3,4,5,$<font color="#5073D6">?</font>$,7,8,9$
 
-$1,3,5,$<font color="#FDBC40">?</font>$,9,11,13$
+$1,3,5,$<font color="#5073D6">?</font>$,9,11,13$
 
-$1,2,4,$<font color="#FDBC40">?</font>$,16,32,64$
+$1,2,4,$<font color="#5073D6">?</font>$,16,32,64$
 
-$1,1,2,3,5,$<font color="#FDBC40">?</font>$,13,21,34$
+$1,1,2,3,5,$<font color="#5073D6">?</font>$,13,21,34$
 
-观察以上数列中的<font color="#FDBC40">?</font>代表的数是什么？
+观察以上数列中的<font color="#5073D6">?</font>代表的数是什么？
 
 ---
 
@@ -2329,7 +2329,7 @@ $1,1,2,3,5,$<font color="#FDBC40">?</font>$,13,21,34$
 
 ### 通项公式
 
-<font color="#FDBC40">数列的第$n$项$a_n$与项的序数$n$之间的关系可以用一个公式$a_n=f(n)$来表示，这个公式叫做这个数列的通项公式。</font>
+<font color="#5073D6">数列的第$n$项$a_n$与项的序数$n$之间的关系可以用一个公式$a_n=f(n)$来表示，这个公式叫做这个数列的通项公式。</font>
 
 如：
 
@@ -2343,7 +2343,7 @@ $1,2,4,8,16,32,64...$          →	$a_n=2^{n-1}$
 
 ### 递推公式
 
-<font color="#FDBC40">如果数列{$a_n$}的第$n$项与它前一项或几项的关系可以用一个式子来表示，那么这个公式叫做这个数列的递推公式。</font>
+<font color="#5073D6">如果数列{$a_n$}的第$n$项与它前一项或几项的关系可以用一个式子来表示，那么这个公式叫做这个数列的递推公式。</font>
 
 如：
 
@@ -2357,7 +2357,7 @@ $1,1,2,3,5,8,13,21...$        →	$a_n=a_{n-1}+a_{n-2},a_1=1,a_2=1$
 
 ## 等差数列
 
-<font color="#FDBC40">如果一个数列从第二项起，每一项与它的前一项的差等于同一个常数，这个数列就叫做等差数列，这个常数叫做公差，公差通常用字母$d$表示，前$n$项和用$S_n$表示。</font>
+<font color="#5073D6">如果一个数列从第二项起，每一项与它的前一项的差等于同一个常数，这个数列就叫做等差数列，这个常数叫做公差，公差通常用字母$d$表示，前$n$项和用$S_n$表示。</font>
 
 如数列$1,2,3,4,5,6,7,8,9...$，就是一个等差数列，它的公差$d=1$
 
@@ -2375,7 +2375,7 @@ $2,7,12,17,22,27...$
 
 ### 通项公式
 
-<font color="#FDBC40">$a_n = a_1 + (n-1)d$</font>
+<font color="#5073D6">$a_n = a_1 + (n-1)d$</font>
 
 ---
 
@@ -2398,9 +2398,9 @@ $S_n=a_n+a_{n-1}+a_{n-2}+...+a_1 = a_n + (a_n - d) + (a_n - 2d) + ... + (a_n - (
 
 由以上知道$2S_n=n(a_1+a_n)$
 
-<font color="#FDBC40">$S_n = \frac{n(a_1+a_n)}{2}$</font>
+<font color="#5073D6">$S_n = \frac{n(a_1+a_n)}{2}$</font>
 
-<font color="#FDBC40">即等差数列的前n项和等于首末两项的和与项数乘积的一半</font>
+<font color="#5073D6">即等差数列的前n项和等于首末两项的和与项数乘积的一半</font>
 
 ---
 
@@ -2418,7 +2418,7 @@ $S_n=\frac{(1+101)\times 100}{2}$​
 
 又$a_n=a_1+(n-1)d$
 
-所以等差数列的前n项和还可以写成<font color="#FDBC40">$S_n=na_1+\frac{n(n-1)d}{2}$</font>
+所以等差数列的前n项和还可以写成<font color="#5073D6">$S_n=na_1+\frac{n(n-1)d}{2}$</font>
 
 ---
 
@@ -2436,7 +2436,7 @@ $S_n=\frac{(1+101)\times 100}{2}$​
 
 ## 等比数列
 
-一般地，如果<font color="#FDBC40">一个数列从第2项起，每一项与它的前一项的比等于同一个常数</font>，这个数列就叫做等比数列，<font color="#FDBC40">这个常数叫做等比数列的公比</font>，公比通常用字母q表示。
+一般地，如果<font color="#5073D6">一个数列从第2项起，每一项与它的前一项的比等于同一个常数</font>，这个数列就叫做等比数列，<font color="#5073D6">这个常数叫做等比数列的公比</font>，公比通常用字母q表示。
 
 如数列$2,4,8,16,32,64,128...$，是等比数列，公比$q=2$
 
@@ -2470,8 +2470,8 @@ $1024,512,256,128,64,32,16,8,4,2,1$
 
 ### 前$n$项和
 
-* 当$q=1$时，等比数列的前$n$项和的公式为<font color="#FDBC40">$S_n=na_1$</font>
-* 当$q \neq1$时，等比数列的前n项和的公式为<font color="#FDBC40">$S_n=\frac{a_1-a_1q^n}{1-q}$</font>
+* 当$q=1$时，等比数列的前$n$项和的公式为<font color="#5073D6">$S_n=na_1$</font>
+* 当$q \neq1$时，等比数列的前n项和的公式为<font color="#5073D6">$S_n=\frac{a_1-a_1q^n}{1-q}$</font>
 
 推导：
 
