@@ -147,8 +147,6 @@
 
 <img src="./IMG_2463.JPG" alt="IMG_2463" style="zoom:100%;" align="left" />
 
-CSP-J学习群微信号
-
 
 
 
