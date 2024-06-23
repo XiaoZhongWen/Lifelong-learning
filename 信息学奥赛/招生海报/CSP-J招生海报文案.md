@@ -125,7 +125,7 @@
 
 * 资深讲师
 
-  CSP-J/S指导老师、著有图书《CSP-J数学基础》、15年互联网产品研发及管理经验、两年一线教学经验、小黑板教育联盟校长圈合伙人、中国地质大学（武汉）计算机学院研究生（机器学习方向）
+  NOI指导老师、著有图书《CSP-J数学基础》、小黑板教育联盟校长圈合伙人、中国地质大学（武汉）计算机学院硕士（机器学习方向）
 
 * 小班教学
 
@@ -166,13 +166,3 @@ B站
 <img src="./bz.png" alt="bz" style="zoom:100%;" align="left"/>
 
 
-
-小红书
-
-<img src="./xhs.png" alt="IMG_2464" style="zoom:100%;" align="left"/>
-
-
-
-抖音
-
-<img src="./dy.png" alt="bz" style="zoom:100%;" align="left"/>

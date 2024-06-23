@@ -40,7 +40,7 @@
 
    $\frac{4}{5}=\frac{4\times 4}{5\times 4}=\frac{16}{20}$​
 
-   因为$\frac{15}{20}<\frac{16}{20}$，所以$\frac{3}{4}<\frac{5}{4}$
+   因为$\frac{15}{20}<\frac{16}{20}$，所以$\frac{3}{4}<\frac{4}{5}$
 
    
 
@@ -200,9 +200,9 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
     <font color="#FC605C">1：任何数前面添加‘-’后，都等于这个数的相反数</font>，如
 
-    ​	$-(+2)$  →  $-2$
+    ​	$-(+2)$  =  $-2$
 
-    ​	$-(-3)$  →  3
+    ​	$-(-3)$  =  3
 
     <font color="#FC605C">2：任何数前面添加‘+’后，都等于这个数本身</font>，如
 
@@ -291,7 +291,7 @@ $\frac34 \times \frac43=1、2 \times \frac12=1$
 
 3. 指数n为负整数
 
-   <font color="#5073D6" size="5">$a^n = \frac1a \times \frac1a \times \frac1a \times ... \times \frac1a=\frac{1}{a^n}$</font>，表示n个$\frac1a$相乘
+   <font color="#5073D6" size="5">$a^n = \frac1a \times \frac1a \times \frac1a \times ... \times \frac1a=\frac{1}{a^{|n|}}$</font>，表示|n|个$\frac1a$相乘
 
    例如：<font color="#5073D6" size="5">$2^{-3} = \frac12\times\frac12\times\frac12=\frac{1}{2^3}$</font>
 
@@ -1342,6 +1342,19 @@ $2160化为标准分解式为2^4\times 3^3 \times 5^1$
 <font color="#5073D6" size="5">$A_n^m = \frac{n \times (n-1) \times (n-2) \times ... \times(n-m+1) \times (n-m) \times... \times 2 \times 1}{(n-m) \times... \times 2 \times 1} = \frac{n!}{(n-m)!}$</font>
 
 如从4个不同元素中选出两个进行排列表示为$A_4^2$，有$4\times 3=12$种方法
+
+
+
+为什么$A_n^m = \frac{A_n^n}{A_{n-m}^{n-m}}=\frac{n!}{(n-m)!}$？
+
+可以这样理解：$A_n^n = A_n^m\times A_{n-m}^{n-m}$
+
+$A_n^n$表示n个元素全排列，而$n$个元素的全排列也可以利用乘法原理来处理：
+
+1. 从$n$个元素中选$m$个元素进行排列，有$A_n^m$种方法
+2. 将剩下的$n-m$个元素进行全排列，有$A_{n-m}^{n-m}$种方法
+
+所以$A_n^n=A_n^m\times A_{n-m}^{n-m}$，那么$A_n^m = \frac{A_n^n}{A_{n-m}^{n-m}}$
 
 
 
