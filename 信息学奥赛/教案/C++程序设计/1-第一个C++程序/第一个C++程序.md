@@ -280,3 +280,86 @@ VSCode：由微软开发的，一款轻量级、速度快、跨平台并支持�
 * 运行程序
 
   ![the_first_c++_program1](../../design sources/the_first_c++_program4.jpg)
+
+
+
+### 注释
+
+注释就像是程序中的小笔记，可以帮助更好地理解代码。注释不会被计算机执行，它们只是写给人看的。就像在书本上做的笔记一样，注释也能帮助记住一些重要的信息。
+
+#### 类型
+
+* 单行注释
+
+  用 `//` 开头，这行之后的内容就是注释
+
+  ```c++
+  #include <iostream>
+  using namespace std;
+  
+  int main() {
+      // 这是一个单行注释，它解释了接下来的代码
+      cout << "Hello, world!" << endl;  // 输出 "Hello, world!"
+      return 0;  // 返回0表示程序成功结束
+  }
+  
+  ```
+
+* 多行注释
+
+  用 `/*` 开头，`*/` 结束，中间的内容都是注释
+
+  ```c++
+  #include <iostream>
+  
+  int main() {
+      /*
+      这是一个多行注释
+      它可以跨越多行
+      非常适合解释较长的代码段
+      */
+      return 0;  // 返回0表示程序成功结束
+  }
+  
+  ```
+
+#### 重要性
+
+* 提高代码可读性
+* 团队合作
+* 调试和维护
+
+
+
+#### 示例
+
+```c++
+// 包含输入输出流库
+#include <iostream>  
+using namespace std;
+
+int main() {
+    // 声明一个整数变量 number
+    int number;  
+	// 提示用户输入一个整数
+    cout << "请输入一个整数: ";
+    // 从用户那里获取输入并存储在 number 变量中
+    cin >> number;  
+
+    // 判断输入的数字是正数、负数还是零
+    if (number > 0) {
+        // 如果 number 大于 0，输出 "这是一个正数。"
+        cout << "这是一个正数。" << endl;  
+    } else if (number < 0) {
+        // 如果 number 小于 0，输出 "这是一个负数。"
+        cout << "这是一个负数。" << endl;  
+    } else {
+        // 如果 number 等于 0，输出 "这是零。"
+        cout << "这是零。" << endl;  
+    }
+
+    // 返回 0 表示程序成功结束
+    return 0;  
+}
+
+```
