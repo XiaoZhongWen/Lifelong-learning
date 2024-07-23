@@ -2,7 +2,7 @@
  * @Author: 肖仲文 xiaozhongwen@mye.hk
  * @Date: 2024-07-22 14:00:28
  * @LastEditors: 肖仲文 xiaozhongwen@mye.hk
- * @LastEditTime: 2024-07-22 17:16:45
+ * @LastEditTime: 2024-07-23 10:26:01
  * @FilePath: /CSP-J/2019_R1_2.cpp
  * @Description: CSP-J 2019 R1
  * 2019年CSP-J完善程序第2题
@@ -26,30 +26,14 @@ unsigned int a[maxn], b[maxn], res[maxn], ord[maxn];
 int n;
 unsigned int cnt[maxs + 1];
 
-void display(unsigned int a[], int size)
-{
-  for (int i = 0; i < size; i++)
-  {
-    printf("%d  ", a[i]);
-  }
-}
-
 int main()
 {
   // 输入双关键字数组
-  // scanf("%d", &n);
-  // for (int i = 0; i < n; i++)
-  // {
-  //   scanf("%u %u", &a[i], &b[i]);
-  // }
-  int n = 3;
-  a[0] = 3;
-  a[1] = 2;
-  a[2] = 3;
-
-  b[0] = 4;
-  b[1] = 4;
-  b[2] = 3;
+  scanf("%d", &n);
+  for (int i = 0; i < n; i++)
+  {
+    scanf("%u %u", &a[i], &b[i]);
+  }
 
   // 初始化计数数组
   memset(cnt, 0, sizeof(cnt));
